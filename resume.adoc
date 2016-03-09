@@ -12,7 +12,7 @@ Software architect with more than 10 years of experience in the financial, elect
 *Mexico City (Mexico) · Full-time · Since June 2015*
 
 Responsabilities: Architecture, consulting, design and support for projects at _HSBC Global Banking and Markets Mexico and Latin America_ and with clients in Mexico, United States and Colombia.
-Responsible for the architecture of web services and UI for our product line _VolPay_(Foundation, Hub and Channel).
+Responsible for the architecture of web services and UI for our product line _VolPay_ (Foundation, Hub and Channel).
 
 Technologies used: Java Enterprise Edition 6 & 7, JAX-RS, JAX-WS, JAXB, JPA, Oauth, JWT, Apache CXF, JBoss Keycloak, JBoss PicketLink, Apache DeltaSpike, Spring Security, Red Hat JBoss EAP, Red Hat JBoss Tools, Apache Camel, Red Hat JBoss Fuse, Netty, IBM MQ, Volante Technologies Designer, Unix Shell, Eclipse, IntelliJ IDEA, UML, Maven, HTML5, AngularJS, jQuery, Bootstrap, C3, D3, Grunt. 
 
@@ -64,7 +64,7 @@ Achievements: Improved performance of the applications used in online banking. W
 Technologies used: Eclipse, STS, Bash shell, IBM Rational Architect, Java EE, HTML 5, Spring(MVC, security), JQuery, IBM Websphere 6 & 7, Apache Geronimo, Visual Age, SSH, Maven, SVN, Git, Jira, IBM MQ, LDAP, REST Web services, UNIX Daemons. 
 
 === Jr. Software Architect at National Polytechnic Institute/Federal Electricity Commission
-*Mexico City (Mexico) · Fulltime · June 2007 - July 2012*
+*Mexico City, Monterrey, Hermosillo, Oaxaca, Cuernavaca & Puebla (Mexico) · Fulltime · June 2007 - July 2012*
 
 
 Responsabilities: Architecture design for the project. Sequence and class diagrams. Functional specification. Development of UI (Java Swing). Integration of geographic data (position of electrical equipment). Deployment of the electricity grid maps. Database modeling following the specification IEC CIM 61968. Migration and integration between databases (Informix and PostgreSQL). Application integration calculation for electrical networks programmed in Fortran and its conversion to JSON web services. Coordination of programmers and developers. Selection of software and hardware. Presentation of the project to CFE's managers.
