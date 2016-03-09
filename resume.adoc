@@ -34,7 +34,7 @@ Achievements: Improvement in the report generation. Time and risk reduction asso
 
 Technologies used: IBM Rational Team Concert, Red Hat Enterprise Linux 5, Informix DB, Oracle DB, Oracle Weblogic, IBM Websphere Application Server 6 & 7, Spring, Apache Camel, Red Hat JBoss Fuse, Volante Technologies Designer, Oracle Data Integrator, Unix Shell, AWK, IBM Sterling Connect Direct, Informix 4GL, Control- M, Eclipse, Maven, Java Security(Jasypt, Bouncy Castle).
 
-=== Senior Software Engineer at BBVA Bancomer
+=== Senior Software Engineer at BBVA Bancomer online banking for businesses
 *Mexico City (Mexico) · Fulltime · December 2013 - August 2014*
 
 Responsabilities: Support in the front-end architecture design. Framework election that met corporative requirements. Proof of concept, demonstrations and beta versions development.
@@ -45,7 +45,7 @@ Technologies used: IBM Rational Architect, Eclipse, STS, HTML 5, Spring(MVC, AOP
 
 
 === Senior Software Engineer at Grupo Posadas
-*Mexico City (Mexico) · Fulltime · April 2013 - November 2014*
+*Mexico City (Mexico) · Fulltime · April 2013 - November 2013*
 
 Responsabilities: Requirements analysis and project implementation. Support and development to all of the company's loyalty portals. Production troubleshooting. Migrating projects in a continuous integration environment.
 
@@ -54,8 +54,8 @@ Achievements: Faster response time to fix errors through that use shared code re
 Technologies used: IBM Rational Architect, Java EE, JBoss Enterprise Application Platform, JBoss Enterprise Portal, JBoss Enterprise SOA Platform, Eclipse, STS, SSH, Maven, SVN, Bash shell, JBoss Developer Studio, Oracle SQL Developer, Java EE, HTML 5, Spring, JSF, EJBs, JQuery, Alfresco ECM, JBoss ESB, Jira, Jenkins. 
 
 
-=== Software Engineer at Softtek
-*Mexico City (Mexico) · Fulltime · July 2012 - April 2003*
+=== Software Engineer at BBVA Bancomer personal online banking
+*Mexico City (Mexico) · Fulltime · July 2012 - April 2013*
 
 Responsabilities: Design, development and testing for online banking (current and new version). Development of the login page (login) to integrate existing and new banks into a single model. Improvement and updating of applications. Automated generation of statistics and reports for user logs through bash scripts. Attention incidents in production, media analysis solutions to productive problems and reporting of business rules (BPW).
 
@@ -160,4 +160,4 @@ MySQL, SQL Server, Informix, Oracle, PostgreSQL, Apache Cassandra.
 Linux, Solaris, Mac OS X, Windows.
 
 === Others
-Enterprise Architect, Power Designer, Oracle SQL Developer, DB Visualizer, EnterpriseDB's PostgreSQL Advanced Server, Informix, IBM Websphere Application Server 6-7-8.5 , JBoss Enterprise Application Platform 5-6, JBoss AS 7, JBoss Wildfly AS 8, Eclipse, Netbeans, Spring, JSF, EJBs, SSH, Maven, Git, Bash, AWK, JQuery, Jira, IBM Rational Architect, IBM Rational Team Concert, Red Hat Enterprise Linux 5-6-7, Informix DB, Oracle DB, Oracle Weblogic 11, Oracle Data Integrator, Volante Technologies Designer, IBM Sterling Connect Direct, Informix 4GL, Control-M, JBoss Developer Studio, Intel Compiler Suite, Maven, Git, Moodle, MySQL, Apache HTTPd, PHP, GIMP, Qt Designer, Gtk Glade, Gcc, Cygwin, Visual Studio, Vi, Apache AB, rsync, Hibernate, JSP, Apache Tomcat, iText, Ibatis, Struts, Red Hat OpenShift, Docker, JBoss Enterprise Portal Platform, JBoss Enterprise SOA Platform, STS, Alfresco ECM, JBoss ESB, Java Security(Jasypt, Bouncy Castle), Jenkins, Apache Cassandra, JEE7, AngularJS, Apache Camel, Red Hat JBoss Fuse.
+Enterprise Architect, Power Designer, Oracle SQL Developer, DB Visualizer, EnterpriseDB's PostgreSQL Advanced Server, IBM Websphere Application Server 6-7-8.5 , JBoss Enterprise Application Platform 5-6, JBoss AS 7, JBoss Wildfly AS, Eclipse, Netbeans, Spring, JSF, EJBs, SSH, Maven, Git, Bash, AWK, Jira, IBM Rational Architect, IBM Rational Team Concert, Red Hat Enterprise Linux 5-6-7, Informix DB, Oracle DB, Oracle Weblogic 11, Oracle Data Integrator, Volante Technologies Designer, IBM Sterling Connect Direct, Informix 4GL, Control-M, JBoss Developer Studio, Intel Compiler Suite, Maven, Git, Moodle, MySQL, Apache HTTPd, PHP, GIMP, Qt Designer, Gtk Glade, Gcc, Cygwin, Visual Studio, Vi, Apache AB, rsync, Hibernate, JSP, Apache Tomcat, iText, Ibatis, Struts, Red Hat OpenShift, Docker, JBoss Enterprise Portal Platform, JBoss Enterprise SOA Platform, STS, Alfresco ECM, JBoss ESB, Java Security(Jasypt, Bouncy Castle), Jenkins, Apache Cassandra, JEE7, AngularJS, Apache Camel, Red Hat JBoss Fuse.
