@@ -11,7 +11,7 @@ Software architect with more than 10 years of experience in the financial, elect
 === Consultant/Pre-Sales Architect at Volante Technologies
 *Mexico City (Mexico) · Full-time · Since June 2015*
 
-Responsabilities: Architecture, consulting, design and support for projects at _HSBC Global Banking and Markets Mexico and Latin America_ and with clients in Mexico, United States and Colombia.
+Responsibilities: Architecture, consulting, design and support for projects at _HSBC Global Banking and Markets Mexico and Latin America_ and with clients in Mexico, United States and Colombia.
 Responsible for the architecture of web services and UI for our product line _VolPay_ (Foundation, Hub and Channel).
 
 Technologies used: Java Enterprise Edition 6 & 7, JAX-RS, JAX-WS, JAXB, JPA, Oauth, JWT, Apache CXF, JBoss Keycloak, JBoss PicketLink, Apache DeltaSpike, Spring Security, Red Hat JBoss EAP, Red Hat JBoss Tools, Apache Camel, Red Hat JBoss Fuse, Netty, IBM MQ, Volante Technologies Designer, Unix Shell, Eclipse, IntelliJ IDEA, UML, Maven, HTML5, AngularJS, jQuery, Bootstrap, C3, D3, Grunt. 
@@ -20,7 +20,7 @@ Technologies used: Java Enterprise Edition 6 & 7, JAX-RS, JAX-WS, JAXB, JPA, Oau
 === Java Technical Lead at Grupo Financiero Interacciones online banking
 *Mexico City (Mexico) · Fulltime · March 2015 - May 2015*
 
-Responsabilities: Continuous improvement and implementation of key functionalities of the bank's security. Dynamic integration of authorization services for the business process protection. Creation of a security API design for backend consuming.
+Responsibilities: Continuous improvement and implementation of key functionalities of the bank's security. Dynamic integration of authorization services for the business process protection. Creation of a security API design for backend consuming.
 
 Technologies used: JAX-RS, JAX-WS, WS-Security, CXF, Oauth, JWT, SAML, Spring Security, Red Hat JBoss Data Grid, Red Hat JBoss EAP, Red Hat JBoss Tools. 
 
@@ -28,7 +28,7 @@ Technologies used: JAX-RS, JAX-WS, WS-Security, CXF, Oauth, JWT, SAML, Spring Se
 === Senior Software Engineer at HSBC Global Banking and Markets
 *Mexico City (Mexico) · Fulltime · August 2014 - March 2015*
 
-Responsabilities: Solutions design for the Risk and Regulatory Reports area of Bank of Mexico. Financial data integration and process engineering to unify different data sources and channels through data buses and business intelligence software.
+Responsibilities: Solutions design for the Risk and Regulatory Reports area of Bank of Mexico. Financial data integration and process engineering to unify different data sources and channels through data buses and business intelligence software.
 
 Achievements: Improvement in the report generation. Time and risk reduction associated with new projects.
 
@@ -37,7 +37,7 @@ Technologies used: IBM Rational Team Concert, Red Hat Enterprise Linux 5, Inform
 === Senior Software Engineer at BBVA Bancomer online banking for businesses
 *Mexico City (Mexico) · Fulltime · December 2013 - August 2014*
 
-Responsabilities: Support in the front-end architecture design. Framework election that met corporative requirements. Proof of concept, demonstrations and beta versions development.
+Responsibilities: Support in the front-end architecture design. Framework election that met corporative requirements. Proof of concept, demonstrations and beta versions development.
 
 Achievements: Development time reduction through automated build solutions integration. Code testing. State-of-the-art technology balance uses with stable, secure and validated versions.
 
@@ -47,7 +47,7 @@ Technologies used: IBM Rational Architect, Eclipse, STS, HTML 5, Spring(MVC, AOP
 === Senior Software Engineer at Grupo Posadas
 *Mexico City (Mexico) · Fulltime · April 2013 - November 2013*
 
-Responsabilities: Requirements analysis and project implementation. Support and development to all of the company's loyalty portals. Production troubleshooting. Migrating projects in a continuous integration environment.
+Responsibilities: Requirements analysis and project implementation. Support and development to all of the company's loyalty portals. Production troubleshooting. Migrating projects in a continuous integration environment.
 
 Achievements: Faster response time to fix errors through that use shared code repositories. Improvement in new and existing developments due to the implementation of agile environments and working methods based on standards.
 
@@ -57,7 +57,7 @@ Technologies used: IBM Rational Architect, Java EE, JBoss Enterprise Application
 === Software Engineer at BBVA Bancomer personal online banking
 *Mexico City (Mexico) · Fulltime · July 2012 - April 2013*
 
-Responsabilities: Design, development and testing for online banking (current and new version). Development of the login page (login) to integrate existing and new banks into a single model. Improvement and updating of applications. Automated generation of statistics and reports for user logs through bash scripts. Attention incidents in production, media analysis solutions to productive problems and reporting of business rules (BPW).
+Responsibilities: Design, development and testing for online banking (current and new version). Development of the login page (login) to integrate existing and new banks into a single model. Improvement and updating of applications. Automated generation of statistics and reports for user logs through bash scripts. Attention incidents in production, media analysis solutions to productive problems and reporting of business rules (BPW).
 
 Achievements: Improved performance of the applications used in online banking. Web applications now meet current safety standards and HTML5. Automation of different processes.
 
@@ -66,8 +66,9 @@ Technologies used: Eclipse, STS, Bash shell, IBM Rational Architect, Java EE, HT
 === Jr. Software Architect at National Polytechnic Institute/Federal Electricity Commission
 *Mexico City, Monterrey, Hermosillo, Oaxaca, Cuernavaca & Puebla (Mexico) · Fulltime · June 2007 - July 2012*
 
+Electric Distribution Network Simulator.
 
-Responsabilities: Architecture design for the project. Sequence and class diagrams. Functional specification. Development of UI (Java Swing). Integration of geographic data (position of electrical equipment). Deployment of the electricity grid maps. Database modeling following the specification IEC CIM 61968. Migration and integration between databases (Informix and PostgreSQL). Application integration calculation for electrical networks programmed in Fortran and its conversion to JSON web services. Coordination of programmers and developers. Selection of software and hardware. Presentation of the project to CFE's managers.
+Responsibilities: Architecture design for the project. Sequence and class diagrams. Functional specification. Development of UI (Java Swing). Integration of geographic data (position of electrical equipment). Deployment of the electricity grid maps. Database modeling following the specification IEC CIM 61968. Migration and integration between databases (Informix and PostgreSQL). Application integration calculation for electrical networks programmed in Fortran and its conversion to JSON web services. Coordination of programmers and developers. Selection of software and hardware. Presentation of the project to CFE's managers.
 
 Achievements: Creating innovative technology and world-class in the field of electrical engineering. Savings in project resources due to the usage of open software solutions. The implemented software can be scaled horizontally or vertically thanks to the raised modular architecture.
 
@@ -77,27 +78,33 @@ Technologies used: Enterprise Architect, Power Designer, Oracle SQL Developer, D
 === Software Developer at Federal Electricity Commission Technological University
 *Mexico City (Mexico) · Consultant · January 2010 - July 2010*
 
-Administration, operationalization and technical support to the distance learning platform _Moodle_ used in the educational offer.  Platform monitoring. Interface customization.
+Online Learning Platform.
+
+Responsibilities: Administration, operationalization and technical support to the distance learning platform _Moodle_ used in the educational offer.  Platform monitoring. Interface customization.
 
 === Software Developer at Federal Electricity Commission
 *Mexico City (Mexico) · Consultant · December 2009 - January 2010*
 
-Graphical interfaces migration from GTK to Nokia Qt. Correction and adaptation of C code to C ++.
+Simulation of hydropower plants.
+
+Responsibilities: Graphical interfaces migration from GTK to Nokia Qt. Correction and adaptation of C code to C ++.
 
 === Software Developer at Secretariat of Public Education/National Polytechnic Institute
 *Mexico City (Mexico) · Consultant · November 2008 - December 2009*
 
-Administration, operationalization and technical support to the distance learning platform _Moodle_ used in the educational offer.  Platform monitoring. Interface customization.
+Online Learning Platform.
+
+Responsibilities: Administration, operationalization and technical support to the distance learning platform _Moodle_ used in the educational offer.  Platform monitoring. Interface customization.
 
 === Software Developer at ADEMSA
 *Mexico City (Mexico) · Fulltime · October 2006 - January 2007*
 
-Improving administration and billing system tailored for this company implemented in Java using Apache Tomcat as application server and MS SQL Server as a database.
+Responsibilities: Improving administration and billing system tailored for this company implemented in Java using Apache Tomcat as application server and MS SQL Server as a database.
 
 === Software Developer at Technoloy Solutions of Mexico
 *Mexico City (Mexico) · Fulltime · September 2006 - December 2006*
 
-Creation of an electronic billing system. Developed to measure, using advanced electronic signature and Solomon ERP. It was implemented in Java using JBoss as an application server and MS SQL Server as a database.
+Responsibilities: Creation of an electronic billing system. Developed to measure, using advanced electronic signature and Solomon ERP. It was implemented in Java using JBoss as an application server and MS SQL Server as a database.
 
 Software Document management for the National Insurance and Bonding Commission. I coordinated a team of programmers to make corrections and improvements to the development.
 
