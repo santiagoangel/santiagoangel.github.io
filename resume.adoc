@@ -1,3 +1,4 @@
+
 :icons: font
 
 = Santiago Angel
@@ -148,7 +149,7 @@ Linux, ESIME IPN, January 2006
 
 Java, ESIME IPN, October 2005
 
-Computer Programer, Grupo CCEA, October 1996
+Computer Programmer, Grupo CCEA, October 1996
 
 English, Instituto Angloamericano, January 1995
 
@@ -171,4 +172,4 @@ MySQL, SQL Server, Informix, Oracle, PostgreSQL, Apache Cassandra.
 Linux, Solaris, Mac OS X, Windows.
 
 === Others
-Enterprise Architect, Power Designer, Oracle SQL Developer, DB Visualizer, EnterpriseDB's PostgreSQL Advanced Server, IBM Websphere Application Server 6-7-8.5 , JBoss Enterprise Application Platform 5-6, JBoss AS 7, JBoss Wildfly AS, Eclipse, Netbeans, Spring, JSF, EJBs, SSH, Maven, Git, Bash, AWK, Jira, IBM Rational Architect, IBM Rational Team Concert, Red Hat Enterprise Linux 5-6-7, Informix DB, Oracle DB, Oracle Weblogic 11, Oracle Data Integrator, Volante Technologies Designer, IBM Sterling Connect Direct, Informix 4GL, Control-M, JBoss Developer Studio, Intel Compiler Suite, Maven, Git, Moodle, MySQL, Apache HTTPd, PHP, GIMP, Qt Designer, Gtk Glade, Gcc, Cygwin, Visual Studio, Vi, Apache AB, rsync, Hibernate, JSP, Apache Tomcat, iText, Ibatis, Struts, Red Hat OpenShift, Docker, JBoss Enterprise Portal Platform, JBoss Enterprise SOA Platform, STS, Alfresco ECM, JBoss ESB, Java Security(Jasypt, Bouncy Castle), Jenkins, Apache Cassandra, JEE7, AngularJS, Apache Camel, Red Hat JBoss Fuse.
+Enterprise Architect, Power Designer, Oracle SQL Developer, DB Visualizer, EnterpriseDB's PostgreSQL Advanced Server, IBM Websphere Application Server 6-7-8.5 , JBoss Enterprise Application Platform 5, 6 & 7, JBoss AS 7, JBoss Wildfly AS 8, 9 & 10, Eclipse, Netbeans, Spring, JSF, EJBs, SSH, Maven, Git, Bash, AWK, Jira, IBM Rational Architect, IBM Rational Team Concert, Red Hat Enterprise Linux 5-6-7, Informix DB, Oracle DB, Oracle Weblogic 11, Oracle Data Integrator, Volante Technologies Designer, IBM Sterling Connect Direct, Informix 4GL, Control-M, JBoss Developer Studio, Intel Compiler Suite, Maven, Git, Moodle, MySQL, Apache HTTPd, PHP, GIMP, Qt Designer, Gtk Glade, Gcc, Cygwin, Visual Studio, Vi, Apache AB, rsync, Hibernate, JSP, Apache Tomcat, iText, Ibatis, Struts, Red Hat OpenShift, Docker, JBoss Enterprise Portal Platform, JBoss Enterprise SOA Platform, STS, Alfresco ECM, JBoss ESB, Java Security(Jasypt, Bouncy Castle), Jenkins, Apache Cassandra, JEE7, AngularJS, Apache Camel, Red Hat JBoss Fuse.
