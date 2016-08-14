@@ -138,9 +138,18 @@ This simulator allows the user to analyze and study future or historical conditi
 
 National Polytechnic Institute, School of Mechanic and Electric Engineering, Mexico · 2002 - 2007
 
-== Certifications
+
+== Professional Training
+Hadoop 101, Big Data University, Aug 2016
+
+OpenShift Enterprise 3, Red Hat, Jul 2015
+
+Financial Data Integration, Volante Technologies, Nov 2014
+
 Java EE 7 & AngularJS, New Circle Training, May 2014
 
+
+== Certifications
 Apache Cassandra Developer Training, DataStax, August 2013
 
 Sun Certified Java Programmer, Global Knowledge, January 2010
@@ -152,6 +161,7 @@ Java, ESIME IPN, October 2005
 Computer Programmer, Grupo CCEA, October 1996
 
 English, Instituto Angloamericano, January 1995
+
 
 == Skills
 === Languages
