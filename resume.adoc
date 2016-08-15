@@ -115,20 +115,25 @@ Software Document management for the National Insurance and Bonding Commission. 
 
 
 == Proyects
+=== VolPay Security - AuthC & AuthZ for Web. May 2016 to date
+Santiago Angel, Santiago Montesinos Padilla, David Lozano Torres, Girisha Neeraje
+
+Authentication & authorization for Java EE 6/7 web applications configured by CDI. It includes support of custom HTML5 login, Oauth token, (UI) management for user, roles & permissions (aka entitlement), two-factor authentication integration (HOTP, OTP) and four/six-eyes principle for critical transaction approval.
+
 === FEC - Banxico. Reporte de operaciones. October 2015 to date
 Santiago Angel, Alicia Maya, Julio César Navarro Cabrera 
 
 HSBC - Reporting of transactions involving amounts over $ 100,000 USD to Mexico’s central bank (Banxico) by the FEC protocol via TCP sockets using IBM MQ, Netty, Apache Camel and Volante Designer for transforming internal bank data to the format, channel encoding and serialization required by Banxico.
 
-=== VolPay Hub June 2015 to date
+=== VolPay Hub. June 2015 to date
 Santiago Angel, David Lozano, Santiago Montesinos Padilla, José García 
 
 VolPay Hub is a centralizing payment orchestration engine for the digital payments age. Through open, configurable adapters any payment type, from any source or channel can be acquired and processed by the system. VolPay Hub enables the rapid standardization of processes and workflows, applying business defined rules to control and manage the flow of payment transactions inside the organization from acquisition to delivery. The application is a configurable, centralized, digital payment process orchestration application. It simplifies the mechanism for on-boarding new payment flows and then enables the execution of the necessary technical and functional activities to successfully and efficiently complete the lifecycle of any payment transaction. http://www.volantetech.com/products/volpay/
 
-=== Reportes Regulatorios - Garantías - Banco de México November 2014 to March 2015
+=== Reportes Regulatorios - Garantías - Banco de México. November 2014 to March 2015
 HSBC - Compliance reports to Mexico’s central bank (Banxico) of stock market transactions with Volante Designer for transformation and integration of internal data and generation of documents & statistics.
 
-=== Simulador del Sistema Eléctrico de Distribución de CFE June 2007 to June 2012
+=== Simulador del Sistema Eléctrico de Distribución de CFE. June 2007 to June 2012
 Santiago Angel, Ricardo Mota-Palomino, Miguel Jiménez Guzmán
 
 This simulator allows the user to analyze and study future or historical conditions on the electrical behavior of the distribution network and take corrective or reactive actions. http://www.youtube.com/watch?v=pi6_lm8fYUw
