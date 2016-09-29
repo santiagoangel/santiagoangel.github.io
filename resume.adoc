@@ -18,9 +18,7 @@ In charge of the architecture of web services, *security* and UI for our product
 http://www.volantetech.com/products/volpay/volpay-hub/[Hub] and
 http://www.volantetech.com/products/volpay-channel/[Channel]).
 
-
 Technologies used: Java Enterprise Edition 6 & 7, JAX-RS, JAX-WS, JAXB, JPA, Oauth, JWT, Apache CXF, JBoss Keycloak, JBoss PicketLink, Apache DeltaSpike, Spring Security, Red Hat JBoss EAP, Red Hat JBoss Tools, Apache Camel, Red Hat JBoss Fuse, Netty, IBM MQ, Volante Technologies Designer, Unix Shell, Eclipse, IntelliJ IDEA, UML, Maven, HTML5, AngularJS, jQuery, Bootstrap, C3, D3, Grunt. 
-
 
 === Java Technical Lead at Grupo Financiero Interacciones online banking
 *Mexico City (Mexico) · Fulltime · March 2015 - May 2015*
@@ -28,7 +26,6 @@ Technologies used: Java Enterprise Edition 6 & 7, JAX-RS, JAX-WS, JAXB, JPA, Oau
 Responsibilities: Continuous improvement and implementation of key functionalities of the bank's security. Dynamic integration of authorization services for the business process protection. Creation of a security API design for backend consuming.
 
 Technologies used: JAX-RS, JAX-WS, WS-Security, CXF, Oauth, JWT, SAML, Spring Security, Red Hat JBoss Data Grid, Red Hat JBoss EAP, Red Hat JBoss Tools. 
-
 
 === Senior Software Engineer at HSBC Global Banking and Markets
 *Mexico City (Mexico) · Fulltime · August 2014 - March 2015*
@@ -48,7 +45,6 @@ Achievements: Development time reduction through automated build solutions integ
 
 Technologies used: IBM Rational Architect, Eclipse, STS, HTML 5, Spring(MVC, AOP, Thymeleaf), Hibernate Validator, JQuery, AngularJS, IBM Websphere 6 & 7, Maven, SVN, REST Web services.
 
-
 === Senior Software Engineer at Grupo Posadas
 *Mexico City (Mexico) · Fulltime · April 2013 - November 2013*
 
@@ -57,7 +53,6 @@ Responsibilities: Requirements analysis and project implementation. Support and 
 Achievements: Faster response time to fix errors through that use shared code repositories. Improvement in new and existing developments due to the implementation of agile environments and working methods based on standards.
 
 Technologies used: IBM Rational Architect, Java EE, JBoss Enterprise Application Platform, JBoss Enterprise Portal, JBoss Enterprise SOA Platform, Eclipse, STS, SSH, Maven, SVN, Bash shell, JBoss Developer Studio, Oracle SQL Developer, Java EE, HTML 5, Spring, JSF, EJBs, JQuery, Alfresco ECM, JBoss ESB, Jira, Jenkins. 
-
 
 === Software Engineer at BBVA Bancomer personal online banking
 *Mexico City (Mexico) · Fulltime · July 2012 - April 2013*
@@ -78,7 +73,6 @@ Responsibilities: Architecture design for the project. Sequence and class diagra
 Achievements: Creating innovative technology and world-class in the field of electrical engineering. Savings in project resources due to the usage of open software solutions. The implemented software can be scaled horizontally or vertically thanks to the raised modular architecture.
 
 Technologies used: Enterprise Architect, Power Designer, Oracle SQL Developer, DB Visualizer, EnterpriseDB's PostgreSQL Advanced Server, Informix, JBoss Enterprise Application Platform, Spring, Hibernate, Eclipse, Netbeans, SSH, Maven, Git. 
-
 
 === Software Developer at Federal Electricity Commission Technological University
 *Mexico City (Mexico) · Consultant · January 2010 - July 2010*
@@ -113,7 +107,6 @@ Responsibilities: Creation of an electronic billing system. Developed to measure
 
 Software Document management for the National Insurance and Bonding Commission. I coordinated a team of programmers to make corrections and improvements to the development.
 
-
 == Proyects
 === VolPay Security - AuthC & AuthZ for Web. May 2016 to date
 Santiago Angel, Santiago Montesinos Padilla, David Lozano Torres, Girisha Neeraje
@@ -143,16 +136,16 @@ This simulator allows the user to analyze and study future or historical conditi
 
 National Polytechnic Institute, School of Mechanic and Electric Engineering, Mexico · 2002 - 2007
 
-
 == Professional Training
-Hadoop 101, Big Data University, Aug 2016
+Bitcoin 101, Big Data University DS0321EN, Sep 2016
+
+Hadoop 101, Big Data University BD0111EN, Aug 2016
 
 OpenShift Enterprise 3, Red Hat, Jul 2015
 
 Financial Data Integration, Volante Technologies, Nov 2014
 
 Java EE 7 & AngularJS, New Circle Training, May 2014
-
 
 == Certifications
 Apache Cassandra Developer Training, DataStax, August 2013
@@ -166,7 +159,6 @@ Java, ESIME IPN, October 2005
 Computer Programmer, Grupo CCEA, October 1996
 
 English, Instituto Angloamericano, January 1995
-
 
 == Skills
 === Languages
