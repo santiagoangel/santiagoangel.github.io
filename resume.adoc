@@ -63,7 +63,7 @@ Achievements: Improved performance of the applications used in online banking. W
 
 Technologies used: Eclipse, STS, Bash shell, IBM Rational Architect, Java EE, HTML 5, Spring(MVC, security), JQuery, IBM Websphere 6 & 7, Apache Geronimo, Visual Age, SSH, Maven, SVN, Git, Jira, IBM MQ, LDAP, REST Web services, UNIX Daemons. 
 
-=== Jr. Software Architect at National Polytechnic Institute/Federal Electricity Commission
+=== Jr. Software Architect at National Polytechnic Institute/Federal Electricity Commission (CFE)
 *Mexico City, Monterrey, Hermosillo, Oaxaca, Cuernavaca & Puebla (Mexico) · Fulltime · June 2007 - July 2012*
 
 Electric Distribution Network Simulator.
@@ -74,28 +74,28 @@ Achievements: Creating innovative technology and world-class in the field of ele
 
 Technologies used: Enterprise Architect, Power Designer, Oracle SQL Developer, DB Visualizer, EnterpriseDB's PostgreSQL Advanced Server, Informix, JBoss Enterprise Application Platform, Spring, Hibernate, Eclipse, Netbeans, SSH, Maven, Git. 
 
-=== Software Developer at Federal Electricity Commission Technological University
+=== Software Developer at Federal Electricity Commission Technological University (UTEC CFE)
 *Mexico City (Mexico) · Consultant · January 2010 - July 2010*
 
 Online Learning Platform.
 
 Responsibilities: Administration, operationalization and technical support to the distance learning platform _Moodle_ used in the educational offer.  Platform monitoring. Interface customization.
 
-=== Software Developer at Federal Electricity Commission
+=== Software Developer at Federal Electricity Commission (CFE)
 *Mexico City (Mexico) · Consultant · December 2009 - January 2010*
 
 Simulation of hydropower plants.
 
 Responsibilities: Graphical interfaces migration from GTK to Nokia Qt. Correction and adaptation of C code to C ++.
 
-=== Software Developer at Secretariat of Public Education/National Polytechnic Institute
+=== Software Developer at Secretariat of Public Education/National Polytechnic Institute (SEP/IPN)
 *Mexico City (Mexico) · Consultant · November 2008 - December 2009*
 
 Online Learning Platform.
 
 Responsibilities: Administration, operationalization and technical support to the distance learning platform _Moodle_ used in the educational offer.  Platform monitoring. Interface customization.
 
-=== Software Developer at ADEMSA
+=== Software Developer at ADEMSA/TMM
 *Mexico City (Mexico) · Fulltime · October 2006 - January 2007*
 
 Responsibilities: Improving administration and billing system tailored for this company implemented in Java using Apache Tomcat as application server and MS SQL Server as a database.
@@ -103,9 +103,9 @@ Responsibilities: Improving administration and billing system tailored for this 
 === Software Developer at Technoloy Solutions of Mexico
 *Mexico City (Mexico) · Fulltime · September 2006 - December 2006*
 
-Responsibilities: Creation of an electronic billing system. Developed to measure, using advanced electronic signature and Solomon ERP. It was implemented in Java using JBoss as an application server and MS SQL Server as a database.
+Responsibilities: Creation of an electronic billing system for ADEMSA/TMM. Developed to measure, using advanced electronic signature and Solomon ERP. It was implemented in Java using JBoss as an application server and MS SQL Server as a database.
 
-Software Document management for the National Insurance and Bonding Commission. I coordinated a team of programmers to make corrections and improvements to the development.
+Software Document management for the National Insurance and Bonding Commission (CNSF). I coordinated a team of programmers to make corrections and improvements to the development.
 
 == Proyects
 === VolPay Security - AuthC & AuthZ for Web. May 2016 to date
