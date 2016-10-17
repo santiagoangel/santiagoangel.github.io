@@ -137,6 +137,8 @@ This simulator allows the user to analyze and study future or historical conditi
 National Polytechnic Institute, School of Mechanic and Electric Engineering, Mexico · 2002 - 2007
 
 == Professional Training
+Scala 101, Big Data University SC0101EN, Oct 2016
+
 Bitcoin 101, Big Data University DS0321EN, Sep 2016
 
 Hadoop 101, Big Data University BD0111EN, Aug 2016
