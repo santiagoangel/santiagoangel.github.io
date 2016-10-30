@@ -108,6 +108,16 @@ Responsibilities: Creation of an electronic billing system for ADEMSA/TMM. Devel
 Software Document management for the National Insurance and Bonding Commission (CNSF). I coordinated a team of programmers to make corrections and improvements to the development.
 
 == Proyects
+=== VolPay Security Xeyes Engine - 4/6 eyes authorization engine. Sep 2016 to date
+Santiago Angel, Oscar Flores Conde, Saúl Ortiz
+
+4/6 eyes authorization engine (four/six-eyes principle and up to 10 security levels) for critical transaction approval (e.g. payments actions) completely integrated in VolPay Security - AuthC & AuthZ for Web.
+
+=== VolPay Connectors for TCP sockets & IBM MQ. Aug 2016 to date
+Santiago Angel, David Lozano Torres
+
+Netty based connectors for VolPay Hub and legacy TCP sockets systems (e.g. AS400) with message interchange on IBM MQ between payments orchestration engine and internal banking systems.
+
 === VolPay Security - AuthC & AuthZ for Web. May 2016 to date
 Santiago Angel, Santiago Montesinos Padilla, David Lozano Torres, Girisha Neeraje
 
