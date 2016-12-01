@@ -2,15 +2,22 @@
 :icons: font
 
 = Santiago Angel
-Consultant/Pre-Sales Architect, Volante Technologies, Inc
+Chief Technical Solution Architect, Successful Software IO
 santiagoangel@gmail.com
 
 == Summary
 Software architect with more than 10 years of experience in the financial, electric, education and public sectors with expertise in the areas of design, development and migration of applications with a focus on Java, web technologies, user interfaces and data processing. 
 
 == Experience
+=== Chief Technical Solution Architect at Successful Software IO
+*Mexico City (Mexico) · Full-time · Since December 2016*
+
+Responsibilities: Technical design, research, architecture, consulting and development of core projects: connectors for Payment Networks, SPEI in Mexico, SWIFT in France and Ripple Global Settlement Network for US and other markets.
+
+Technologies used: Red Hat JBoss Enterprise Application Platform 7 with Java EE 7 & Java 8, Red Hat JBoss Fuse, C24 Data Platform, Red Hat JBoss BRMS, Microsoft .NET Core, Red Hat JBoss BPM Suite, 3scale API, Red Hat Single Sign-On, Apache Cassandra, Apache Spark, Scala, Red Hat JBoss Data Grid, MongoDB, HTML5, jQuery, Bootstrap, Amazon AWS, Microsoft Azure, Google Cloud, Red Hat OpenShift, Docker & Kubernetes.
+
 === Consultant/Pre-Sales Architect at Volante Technologies
-*Mexico City (Mexico) · Full-time · Since June 2015*
+*Mexico City (Mexico) · Full-time · June 2015 - November 2016*
 
 Responsibilities: Architecture, consulting, design and support for projects at _HSBC Global Banking and Markets Mexico and Latin America_ and with clients in Mexico, United States and Colombia.
 
