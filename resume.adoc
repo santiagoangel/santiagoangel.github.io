@@ -135,6 +135,11 @@ Santiago Angel, Alicia Maya, Julio César Navarro Cabrera
 
 HSBC - Reporting of transactions involving amounts over $ 100,000 USD to Mexico’s central bank (Banxico) by the FEC protocol via TCP sockets using IBM MQ, Netty, Apache Camel and Volante Designer for transforming internal bank data to the format, channel encoding and serialization required by Banxico.
 
+=== VolPay Hub Integration for Ripple Global Settlement Network. September 2015
+Santiago Angel, David Lozano, Santiago Montesinos Padilla, José García
+
+REST based endpoints for integration to Ripple's Payments API in VolPay Hub.
+
 === VolPay Hub. June 2015 to date
 Santiago Angel, David Lozano, Santiago Montesinos Padilla, José García 
 
@@ -154,6 +159,8 @@ This simulator allows the user to analyze and study future or historical conditi
 National Polytechnic Institute, School of Mechanic and Electric Engineering, Mexico · 2002 - 2007
 
 == Professional Training
+Developing Android Apps by Google, Udacity ud851, Jan 2017
+
 Scala 101, Big Data University SC0101EN, Oct 2016
 
 Bitcoin 101, Big Data University DS0321EN, Sep 2016
