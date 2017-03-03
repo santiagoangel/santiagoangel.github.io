@@ -3,7 +3,7 @@
 
 = Santiago Angel
 Chief Technical Solution Architect, Successful Software IO
-santiagoangel@gmail.com http://santiagoangel.github.io/
+santiagoangel@gmail.com santiagoangel.github.io
 
 == Summary
 Software architect with more than 10 years of experience in the financial, electric, education and public sectors with expertise in the areas of design, development and migration of applications with a focus on Java, web technologies, user interfaces and data processing. 
