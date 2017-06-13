@@ -10,7 +10,7 @@ Software architect with more than 10 years of experience in the financial, elect
 
 == Experience
 === Software Architect/ Software Release Engineer applying DevOps methodology at Banco Santander
-*Mexico City & Queretaro (Mexico) · Full-time · since May 2017
+*Mexico City & Queretaro (Mexico) · Full-time · since May 2017*
 
 Responsibilities
 
@@ -21,7 +21,7 @@ Building and extending continuous delivery technology platforms with the goal of
 Contribute to system architecture design.
 
 === Big Data Architect & Technical Lead at Banco Santander
-*Mexico City & Queretaro (Mexico) · Full-time · April 2017 - May 2017
+*Mexico City & Queretaro (Mexico) · Full-time · April 2017 - May 2017*
 
 Design and development of technical architecture using big data technology.
 
