@@ -2,17 +2,15 @@
 :icons: font
 
 = Santiago Angel
-Big Data Architect & Technical Lead, Banco Santander
+Software Architect/ Software Release Engineer (DevOps), Banco Santander
 santiagoangel@gmail.com santiagoangel.github.io
 
 == Summary
-Software architect with more than 10 years of experience in the financial, electric, education and public sectors with expertise in the areas of design, development and migration of applications with a focus on Java, web technologies, user interfaces and data processing. 
+Software architect with more than 10 years of experience in the financial, electric, education and public sectors with expertise in the areas of design, development and migration of applications with a focus on Java, web technologies, user interfaces and data processing.
 
 == Experience
-=== Software Architect/ Software Release Engineer applying DevOps methodology at Banco Santander
-*Mexico City & Queretaro (Mexico) · Full-time · since May 2017*
-
-Responsibilities
+=== Software Architect/ Software Release Engineer applying DevOps methodology at Banco Santander
+*Mexico City & Queretaro (Mexico) · Full-time · Since May 2017*
 
 Lead, design, and implement general tooling platforms and services for use by development and operations team to streamline and automate our build, release, and deployment process.
 
@@ -20,31 +18,16 @@ Building and extending continuous delivery technology platforms with the goal of
 
 Contribute to system architecture design.
 
+Technologies used: Red Hat OpenShift, Docker, Kubernetes, Spring Boot, Netflix OSS, OAuth, Microservices, JWT, MongoDB, Red Hat Ansible, Jenkins, SonarQube, Nexus.
+
 === Big Data Architect & Technical Lead at Banco Santander
-*Mexico City & Queretaro (Mexico) · Full-time · April 2017 - May 2017*
+*Mexico City & Queretaro (Mexico) · Full-time · April - May 2017*
 
 Design and development of technical architecture using big data technology.
 
 Analysis of data sources from traditional systems.
 
-Responsible for Spark based solutions to support data ingestion from client and business data from all group. 
-
-Technologies used: Cloudera CDH 5, Apache Spark, Hive, Oozie, Hue, Scala, Amazon AWS.
-
-=== Chief Technical Solution Architect at Successful Software IO
-*Mexico City (Mexico) · Full-time · December 2016 - April 2017*
-
-Responsibilities: Technical design, research, architecture, consulting and development of core projects: connectors for Payment Networks, SPEI in Mexico, SWIFT in France and Ripple Global Settlement Network for US and other markets.
-
-Technologies used: Red Hat JBoss Enterprise Application Platform 7 with Java EE 7 & Java 8, Red Hat JBoss Fuse, C24 Data Platform, Red Hat JBoss BRMS, Microsoft .NET Core, Red Hat JBoss BPM Suite, 3scale API, Red Hat Single Sign-On, Apache Cassandra, Apache Spark, Scala, Red Hat JBoss Data Grid, MongoDB, HTML5, jQuery, Bootstrap, Amazon AWS, Microsoft Azure, Google Cloud, Red Hat OpenShift, Docker & Kubernetes.
-itect & Technical Lead at Banco Santander
-*Mexico City & Queretaro (Mexico) · Full-time · Since April 2017*
-
-Design and development of technical architecture using big data technology.
-
-Analysis of data sources from traditional systems.
-
-Responsible for Spark based solutions to support data ingestion from client and business data from all group. 
+Responsible for Spark based solutions to support data ingestion from client and business data from all group.
 
 Technologies used: Cloudera CDH 5, Apache Spark, Hive, Oozie, Hue, Scala, Amazon AWS.
 
@@ -71,7 +54,7 @@ Technologies used: Java Enterprise Edition 6 & 7, JAX-RS, JAX-WS, JAXB, JPA, Oau
 
 Responsibilities: Continuous improvement and implementation of key functionalities of the bank's security. Dynamic integration of authorization services for the business process protection. Creation of a security API design for backend consuming.
 
-Technologies used: JAX-RS, JAX-WS, WS-Security, CXF, Oauth, JWT, SAML, Spring Security, Red Hat JBoss Data Grid, Red Hat JBoss EAP, Red Hat JBoss Tools. 
+Technologies used: JAX-RS, JAX-WS, WS-Security, CXF, Oauth, JWT, SAML, Spring Security, Red Hat JBoss Data Grid, Red Hat JBoss EAP, Red Hat JBoss Tools.
 
 === Senior Software Engineer at HSBC Global Banking and Markets
 *Mexico City (Mexico) · Fulltime · August 2014 - March 2015*
@@ -98,7 +81,7 @@ Responsibilities: Requirements analysis and project implementation. Support and 
 
 Achievements: Faster response time to fix errors through that use shared code repositories. Improvement in new and existing developments due to the implementation of agile environments and working methods based on standards.
 
-Technologies used: IBM Rational Architect, Java EE, JBoss Enterprise Application Platform, JBoss Enterprise Portal, JBoss Enterprise SOA Platform, Eclipse, STS, SSH, Maven, SVN, Bash shell, JBoss Developer Studio, Oracle SQL Developer, Java EE, HTML 5, Spring, JSF, EJBs, JQuery, Alfresco ECM, JBoss ESB, Jira, Jenkins. 
+Technologies used: IBM Rational Architect, Java EE, JBoss Enterprise Application Platform, JBoss Enterprise Portal, JBoss Enterprise SOA Platform, Eclipse, STS, SSH, Maven, SVN, Bash shell, JBoss Developer Studio, Oracle SQL Developer, Java EE, HTML 5, Spring, JSF, EJBs, JQuery, Alfresco ECM, JBoss ESB, Jira, Jenkins.
 
 === Software Engineer at BBVA Bancomer personal online banking
 *Mexico City (Mexico) · Fulltime · July 2012 - April 2013*
@@ -107,7 +90,7 @@ Responsibilities: Design, development and testing for online banking (current an
 
 Achievements: Improved performance of the applications used in online banking. Web applications now meet current safety standards and HTML5. Automation of different processes.
 
-Technologies used: Eclipse, STS, Bash shell, IBM Rational Architect, Java EE, HTML 5, Spring(MVC, security), JQuery, IBM Websphere 6 & 7, Apache Geronimo, Visual Age, SSH, Maven, SVN, Git, Jira, IBM MQ, LDAP, REST Web services, UNIX Daemons. 
+Technologies used: Eclipse, STS, Bash shell, IBM Rational Architect, Java EE, HTML 5, Spring(MVC, security), JQuery, IBM Websphere 6 & 7, Apache Geronimo, Visual Age, SSH, Maven, SVN, Git, Jira, IBM MQ, LDAP, REST Web services, UNIX Daemons.
 
 === Jr. Software Architect at National Polytechnic Institute/Federal Electricity Commission (CFE)
 *Mexico City, Monterrey, Hermosillo, Oaxaca, Cuernavaca & Puebla (Mexico) · Fulltime · June 2007 - July 2012*
@@ -118,7 +101,7 @@ Responsibilities: Architecture design for the project. Sequence and class diagra
 
 Achievements: Creating innovative technology and world-class in the field of electrical engineering. Savings in project resources due to the usage of open software solutions. The implemented software can be scaled horizontally or vertically thanks to the raised modular architecture.
 
-Technologies used: Enterprise Architect, Power Designer, Oracle SQL Developer, DB Visualizer, EnterpriseDB's PostgreSQL Advanced Server, Informix, JBoss Enterprise Application Platform, Spring, Hibernate, Eclipse, Netbeans, SSH, Maven, Git. 
+Technologies used: Enterprise Architect, Power Designer, Oracle SQL Developer, DB Visualizer, EnterpriseDB's PostgreSQL Advanced Server, Informix, JBoss Enterprise Application Platform, Spring, Hibernate, Eclipse, Netbeans, SSH, Maven, Git.
 
 === Software Developer at Federal Electricity Commission Technological University (UTEC CFE)
 *Mexico City (Mexico) · Consultant · January 2010 - July 2010*
@@ -154,6 +137,32 @@ Responsibilities: Creation of an electronic billing system for ADEMSA/TMM. Devel
 Software Document management for the National Insurance and Bonding Commission (CNSF). I coordinated a team of programmers to make corrections and improvements to the development.
 
 == Proyects
+=== Spotlight - formely known as Lighthouse. October 2017 to date
+A team of 100+ people
+
+Agile development, digital banking and fast client on boarding.
+
+https://cuentadigital.santander.com.mx/pyme/#/
+
+https://cuentadigital.santander.com.mx/personas/#/
+
+=== Infrastructure as code for AWS. Sep 2017 to date
+Personal project for fintechs.
+
+Infrastructure as code for AWS, Openshift, CI, CD and devops methodology
+
+https://github.com/santiagoangel/ocaws-design
+
+=== Lighthouse. May 2017 to date
+A team of 100+ people
+
+Agile development, digital banking and fast client on boarding.
+
+https://cuentadigital.santander.com.mx/pyme/#/
+
+https://cuentadigital.santander.com.mx/personas/#/
+
+
 === VolPay Security Xeyes Engine - 4/6 eyes authorization engine. Sep 2016 to date
 Santiago Angel, Oscar Flores Conde, Saúl Ortiz
 
@@ -170,7 +179,7 @@ Santiago Angel, Santiago Montesinos Padilla, David Lozano Torres, Girisha Neeraj
 Authentication & authorization for Java EE 6/7 web applications configured by CDI. It includes support of custom HTML5 login, Oauth token, (UI) management for user, roles & permissions (aka entitlement), two-factor authentication integration (HOTP, OTP) and four/six-eyes principle for critical transaction approval.
 
 === FEC - Banxico. Reporte de operaciones. October 2015 to date
-Santiago Angel, Alicia Maya, Julio César Navarro Cabrera 
+Santiago Angel, Alicia Maya, Julio César Navarro Cabrera
 
 HSBC - Reporting of transactions involving amounts over $ 100,000 USD to Mexico’s central bank (Banxico) by the FEC protocol via TCP sockets using IBM MQ, Netty, Apache Camel and Volante Designer for transforming internal bank data to the format, channel encoding and serialization required by Banxico.
 
@@ -180,7 +189,7 @@ Santiago Angel, David Lozano, Santiago Montesinos Padilla, José García
 REST based endpoints for integration to Ripple's Payments API in VolPay Hub.
 
 === VolPay Hub. June 2015 to date
-Santiago Angel, David Lozano, Santiago Montesinos Padilla, José García 
+Santiago Angel, David Lozano, Santiago Montesinos Padilla, José García
 
 VolPay Hub is a centralizing payment orchestration engine for the digital payments age. Through open, configurable adapters any payment type, from any source or channel can be acquired and processed by the system. VolPay Hub enables the rapid standardization of processes and workflows, applying business defined rules to control and manage the flow of payment transactions inside the organization from acquisition to delivery. The application is a configurable, centralized, digital payment process orchestration application. It simplifies the mechanism for on-boarding new payment flows and then enables the execution of the necessary technical and functional activities to successfully and efficiently complete the lifecycle of any payment transaction. http://www.volantetech.com/products/volpay/
 
@@ -198,6 +207,10 @@ This simulator allows the user to analyze and study future or historical conditi
 National Polytechnic Institute, School of Mechanic and Electric Engineering, Mexico · 2002 - 2007
 
 == Professional Training
+Microsoft Professional Orientation Data Science, Microsoft dat101x, Oct 2017
+
+Microsoft Introduction DevOps practices, Microsoft devops200-1x, Oct 2017
+
 Developing Android Apps by Google, Udacity ud851, Jan 2017
 
 Scala 101, Big Data University SC0101EN, Oct 2016
@@ -238,10 +251,10 @@ HTML, AngularJS, jQuery, Bootstrap.
 Java, Javascript, C, C++, Bash, Fortran.
 
 === Databases
-MySQL, SQL Server, Informix, Oracle, PostgreSQL, Apache Cassandra.
+MySQL, SQL Server, Informix, Oracle, PostgreSQL, Apache Cassandra, MongoDB.
 
 === Operating Systems
 Linux, Solaris, Mac OS X, Windows.
 
 === Others
-Enterprise Architect, Power Designer, Oracle SQL Developer, DB Visualizer, EnterpriseDB's PostgreSQL Advanced Server, IBM Websphere Application Server 6-7-8.5 , JBoss Enterprise Application Platform 5, 6 & 7, JBoss AS 7, JBoss Wildfly AS 8, 9 & 10, Eclipse, Netbeans, Spring, JSF, EJBs, SSH, Maven, Git, Bash, AWK, Jira, IBM Rational Architect, IBM Rational Team Concert, Red Hat Enterprise Linux 5-6-7, Informix DB, Oracle DB, Oracle Weblogic 11, Oracle Data Integrator, Volante Technologies Designer, IBM Sterling Connect Direct, Informix 4GL, Control-M, JBoss Developer Studio, Intel Compiler Suite, Maven, Git, Moodle, MySQL, Apache HTTPd, PHP, GIMP, Qt Designer, Gtk Glade, Gcc, Cygwin, Visual Studio, Vi, Apache AB, rsync, Hibernate, JSP, Apache Tomcat, iText, Ibatis, Struts, Red Hat OpenShift, Amazon AWS, Docker, JBoss Enterprise Portal Platform, JBoss Enterprise SOA Platform, STS, Alfresco ECM, JBoss ESB, Java Security(Jasypt, Bouncy Castle), Jenkins, Apache Cassandra, JEE7, AngularJS, Apache Camel, Red Hat JBoss Fuse.
+Enterprise Architect, Power Designer, Oracle SQL Developer, DB Visualizer, EnterpriseDB's PostgreSQL Advanced Server, IBM Websphere Application Server 6-7-8.5 , JBoss Enterprise Application Platform 5, 6 & 7, JBoss AS 7, JBoss Wildfly AS 8, 9 & 10, Eclipse, Netbeans, Spring, JSF, EJBs, SSH, Maven, Git, Bash, AWK, Jira, IBM Rational Architect, IBM Rational Team Concert, Red Hat Enterprise Linux 5-6-7, Informix DB, Oracle DB, Oracle Weblogic 11, Oracle Data Integrator, Volante Technologies Designer, IBM Sterling Connect Direct, Informix 4GL, Control-M, JBoss Developer Studio, Intel Compiler Suite, Maven, Git, Moodle, MySQL, Apache HTTPd, PHP, GIMP, Qt Designer, Gtk Glade, Gcc, Cygwin, Visual Studio, Vi, Apache AB, rsync, Hibernate, JSP, Apache Tomcat, iText, Ibatis, Struts, Red Hat OpenShift, Amazon AWS, Docker, JBoss Enterprise Portal Platform, JBoss Enterprise SOA Platform, STS, Alfresco ECM, JBoss ESB, Java Security(Jasypt, Bouncy Castle), Jenkins, Apache Cassandra, JEE7, AngularJS, Apache Camel, Red Hat JBoss Fuse, Red Hat Ansible, Netflix OSS.
