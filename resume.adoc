@@ -23,11 +23,7 @@ Technologies used: Red Hat OpenShift, Docker, Kubernetes, Spring Boot, Netflix O
 === Big Data Architect & Technical Lead at Banco Santander
 *Mexico City & Queretaro (Mexico) · Full-time · April - May 2017*
 
-Design and development of technical architecture using big data technology.
-
-Analysis of data sources from traditional systems.
-
-Responsible for Spark based solutions to support data ingestion from client and business data from all group.
+Responsibilities: Design and development of technical architecture using big data technology. Analysis of data sources from traditional systems. Create Spark based solutions to support data ingestion from client and business data from all group.
 
 Technologies used: Cloudera CDH 5, Apache Spark, Hive, Oozie, Hue, Scala, Amazon AWS.
 
@@ -137,6 +133,13 @@ Responsibilities: Creation of an electronic billing system for ADEMSA/TMM. Devel
 Software Document management for the National Insurance and Bonding Commission (CNSF). I coordinated a team of programmers to make corrections and improvements to the development.
 
 == Proyects
+=== IT transformation - new support model. November 2017 to date
+Santiago Angel, Arturo De Florencio, Jalil Bonilla
+
+Includes a full CI/CD platform with end to end delivery from development to production.
+
+An artificial intelligence agent (AOT-Bot) who supports human interaction at email, skype and web channels allowing automation of several services in IT operations at Banco Santander. https://join.skype.com/bot/73865a6d-145e-4808-80d7-7783d888435c
+
 === Spotlight - formely known as Lighthouse. October 2017 to date
 A team of 100+ people
 
