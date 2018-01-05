@@ -2,15 +2,30 @@
 :icons: font
 
 = Santiago Angel
-Software Architect/ Software Release Engineer (DevOps), Banco Santander
+DevOps Engineer / Agile Ops Team / Site Reliability Engineering, Banco Santander
 santiagoangel@gmail.com santiagoangel.github.io
 
 == Summary
 Software architect with more than 10 years of experience in the financial, electric, education and public sectors with expertise in the areas of design, development and migration of applications with a focus on Java, web technologies, user interfaces and data processing.
 
 == Experience
+=== DevOps Engineer / Agile Ops Team / Site Reliability Engineering at Banco Santander
+*Mexico City & Queretaro (Mexico) · Full-time · Since Jan 2018*
+
+Identify new requirements.
+
+Architecture feedback to automation tools.
+
+Help in the support of daily operations.
+
+Deployment of agile solutions.
+
+Integration of CI / CD solutions.
+
+Technologies used: Red Hat OpenShift, Docker, Kubernetes, Spring Boot, Netflix OSS, OAuth, Microservices, JWT, MongoDB, Red Hat Ansible, Jenkins, SonarQube, Nexus.
+
 === Software Architect/ Software Release Engineer applying DevOps methodology at Banco Santander
-*Mexico City & Queretaro (Mexico) · Full-time · Since May 2017*
+*Mexico City & Queretaro (Mexico) · Full-time · May - Dec 2017*
 
 Lead, design, and implement general tooling platforms and services for use by development and operations team to streamline and automate our build, release, and deployment process.
 
