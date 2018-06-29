@@ -3,7 +3,7 @@
 
 = Santiago Angel
 DevOps Engineer / Agile Ops Team / Site Reliability Engineering, Banco Santander
-santiagoangel@gmail.com santiagoangel.github.io
+santiagoangel@gmail.com  santiagoangel.github.io
 
 == Summary
 Software architect with more than 10 years of experience in the financial, electric, education and public sectors with expertise in the areas of design, development and migration of applications with a focus on Java, web technologies, user interfaces and data processing.
@@ -225,6 +225,8 @@ This simulator allows the user to analyze and study future or historical conditi
 National Polytechnic Institute, School of Mechanic and Electric Engineering, Mexico · 2002 - 2007
 
 == Professional Training
+Red Hat OpenStack Technical Overview, Red Hat CL010, Jun 2018
+
 Microsoft Professional Orientation Data Science, Microsoft dat101x, Oct 2017
 
 Microsoft Introduction DevOps practices, Microsoft devops200-1x, Oct 2017
