@@ -34,8 +34,8 @@
       {
         "media": {
           "url": "http://www.youtube.com/watch?v=pi6_lm8fYUw",
-          "caption": "Simulador del Sistema Eléctrico de Distribución de CFE",
-          "credit": "<a href=\"http://www.cfe.gob.mx\">Simulador del Sistema Eléctrico de Distribución de CFE</a>"
+          "caption": "Simulador del Sistema Eléctrico de Distribución",
+          "credit": "<a href=\"http://www.cfe.gob.mx\">Comisión Federal de Electricidad</a>"
         },
         "start_date": {
             "month": "6",
@@ -47,21 +47,26 @@
             },
         "text": {
           "headline": "Jr. Software Architect at National Polytechnic Institute/Federal Electricity Commission (CFE)",
-          "text": "Electric Distribution Network Simulator. <br/> Responsibilities: Architecture design for the project. Sequence and class diagrams. Functional specification. Development of UI (Java Swing). Integration of geographic data (position of electrical equipment). Deployment of the electricity grid maps. Database modeling following the specification IEC CIM 61968. Migration and integration between databases (Informix and PostgreSQL). Application integration calculation for electrical networks programmed in Fortran and its conversion to JSON web services. Coordination of programmers and developers. Selection of software and hardware. Presentation of the project to CFE’s managers. <br/> Achievements: Creating innovative technology and world-class in the field of electrical engineering. Savings in project resources due to the usage of open software solutions. The implemented software can be scaled horizontally or vertically thanks to the raised modular architecture.<br/> Technologies used: Enterprise Architect, Power Designer, Oracle SQL Developer, DB Visualizer, EnterpriseDB’s PostgreSQL Advanced Server, Informix, JBoss Enterprise Application Platform, Spring, Hibernate, Eclipse, Netbeans, SSH, Maven, Git."
+          "text": "Electric Distribution Network Simulator. <br/> Responsibilities: Architecture design for the project. Sequence and class diagrams. Functional specification. Development of UI (Java Swing). Integration of geographic data (position of electrical equipment). Deployment of the electricity grid maps. Database modeling following the specification IEC CIM 61968. Migration and integration between databases (Informix and PostgreSQL). Application integration calculation for electrical networks programmed in Fortran and its conversion to JSON web services. Coordination of programmers and developers. Selection of software and hardware. Presentation of the project to CFE’s managers. <br/> <b>Achievements:</b> Creating innovative technology and world-class in the field of electrical engineering. Savings in project resources due to the usage of open software solutions. The implemented software can be scaled horizontally or vertically thanks to the raised modular architecture.<br/> Technologies used: Enterprise Architect, Power Designer, Oracle SQL Developer, DB Visualizer, EnterpriseDB’s PostgreSQL Advanced Server, Informix, JBoss Enterprise Application Platform, Spring, Hibernate, Eclipse, Netbeans, SSH, Maven, Git."
         }
       },
       {
         "media": {
-          "url": "https://youtu.be/_gvJCCZzmro",
-          "caption": "A young poised Whitney Houston in an interview with EbonyJet.",
-          "credit": "EbonyJet"
+          "url": "https://www.bancomer.com/personas.html",
+          "caption": "BBVA Bancomer Banca por internet - Personas",
+          "credit": "www.bancomer.com"
         },
         "start_date": {
-          "year": "1978"
-        },
+            "month": "7",
+            "year": "2012"
+          },
+          "end_date": {
+              "month": "4",
+              "year": "2013"
+            },
         "text": {
-          "headline": "The Early Years",
-          "text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
+          "headline": "Software Engineer at BBVA Bancomer personal online banking",
+          "text": "<br/> Responsibilities: Design, development and testing for online banking. Development of the login page (login) to integrate existing and new banks into a single model. Improvement and updating of applications. Automated generation of statistics and reports for user logs through bash scripts. Attention incidents in production, media analysis solutions to productive problems and reporting of business rules (BPW). <br /> <b>Achievements:</b> Improved performance of the applications used in online banking. Web applications now meet current safety standards and HTML5. Automation of different processes.<br/>Technologies used: Eclipse, STS, Bash shell, IBM Rational Architect, Java EE, HTML 5, Spring(MVC, security), JQuery, IBM Websphere 6 & 7, Apache Geronimo, Visual Age, SSH, Maven, SVN, Git, Jira, IBM MQ, LDAP, REST Web services, UNIX Daemons."
         }
       },
       {
