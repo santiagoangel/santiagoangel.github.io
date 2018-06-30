@@ -18,9 +18,13 @@
           "credit": "<a href='http://www.esimez.ipn.mx/'>www.esimez.ipn.mx</a>"
         },
         "start_date": {
-          "month": "6",
-          "year": "2007"
+          "month": "1",
+          "year": "2002"
         },
+        "end_date": {
+            "month": "6",
+            "year": "2007"
+          },
         "text": {
           "headline": "Education",
           "text": "<p>Bachelor of Science in Communications and Electronic Engineering with emphasis in Computing, National Polytechnic Institute, School of Mechanic and Electric Engineering, Mexico. 2002 - 2007</p>"
@@ -29,16 +33,21 @@
       },
       {
         "media": {
-          "url": "https://youtu.be/fSrO91XO1Ck",
-          "caption": "",
-          "credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
+          "url": "http://www.youtube.com/watch?v=pi6_lm8fYUw",
+          "caption": "Simulador del Sistema Eléctrico de Distribución de CFE",
+          "credit": "<a href=\"http://www.cfe.gob.mx\">Simulador del Sistema Eléctrico de Distribución de CFE</a>"
         },
         "start_date": {
-          "year": "1978"
-        },
+            "month": "6",
+            "year": "2007"
+          },
+          "end_date": {
+              "month": "6",
+              "year": "2012"
+            },
         "text": {
-          "headline": "First Recording",
-          "text": "At the age of 15 Houston was featured on Michael Zager's song, Life's a Party."
+          "headline": "Jr. Software Architect at National Polytechnic Institute/Federal Electricity Commission (CFE)",
+          "text": "Electric Distribution Network Simulator. <br/> Responsibilities: Architecture design for the project. Sequence and class diagrams. Functional specification. Development of UI (Java Swing). Integration of geographic data (position of electrical equipment). Deployment of the electricity grid maps. Database modeling following the specification IEC CIM 61968. Migration and integration between databases (Informix and PostgreSQL). Application integration calculation for electrical networks programmed in Fortran and its conversion to JSON web services. Coordination of programmers and developers. Selection of software and hardware. Presentation of the project to CFE’s managers. <br/> Achievements: Creating innovative technology and world-class in the field of electrical engineering. Savings in project resources due to the usage of open software solutions. The implemented software can be scaled horizontally or vertically thanks to the raised modular architecture.<br/> Technologies used: Enterprise Architect, Power Designer, Oracle SQL Developer, DB Visualizer, EnterpriseDB’s PostgreSQL Advanced Server, Informix, JBoss Enterprise Application Platform, Spring, Hibernate, Eclipse, Netbeans, SSH, Maven, Git."
         }
       },
       {
