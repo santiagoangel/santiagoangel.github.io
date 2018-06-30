@@ -1,30 +1,30 @@
 {
     "title": {
         "media": {
-          "url": "//www.flickr.com/photos/tm_10001/2310475988/",
-          "caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
-          "credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+          "url": "https://media.licdn.com/dms/image/C5603AQF_ltHRy-dNMw/profile-displayphoto-shrink_200_200/0?e=1535587200&v=beta&t=7xQzdhvBGyMvgT5UbzyfuzApYLv8PHG1iZe1lQULT4g",
+          "caption": "Santiago Angel.",
+          "credit": "<a href='https://www.linkedin.com/in/csantiagoangel/'>LinkedIn</a>"
         },
         "text": {
-          "headline": "Whitney Houston<br/> 1963 - 2012",
-          "text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
+          "headline": "DevOps Engineer @ Banco Santander",
+          "text": "<p>Software architect with more than 10 years of experience in the financial, electric, education and public sectors with expertise in the areas of design, development and migration of applications with a focus on Java, web technologies, user interfaces and data processing.</p>"
         }
     },
     "events": [
       {
         "media": {
-          "url": "https://santiagoangel.github.io/timeline/img/esimezipn.png",
-          "caption": "Houston's mother and Gospel singer, Cissy Houston (left) and cousin Dionne Warwick.",
-          "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+          "url": "https://santiagoangel.github.io/timeline/img/esimeipn.png",
+          "caption": "Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Zacatenco del Instituto Politécnico Nacional",
+          "credit": "<a href='http://www.esimez.ipn.mx/'>www.esimez.ipn.mx</a>"
         },
         "start_date": {
-          "month": "8",
-          "day": "9",
-          "year": "1963"
+          "month": "6",
+          "year": "2007"
         },
         "text": {
-          "headline": "A Musical Heritage",
-          "text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+          "headline": "Education",
+          "text": "<p>Bachelor of Science in Communications and Electronic Engineering with emphasis in Computing, National Polytechnic Institute, School of Mechanic and Electric Engineering, Mexico. 2002 - 2007</p>"
+          
         }
       },
       {
