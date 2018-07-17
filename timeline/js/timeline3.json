@@ -6,7 +6,7 @@
           "credit": "<a href='https://www.linkedin.com/in/csantiagoangel/'>LinkedIn</a>"
         },
         "text": {
-          "headline": "DevOps Engineer @ Banco Santander",
+          "headline": "Middleware Solutions Architect @ Red Hat",
           "text": "<p>Software architect with more than 10 years of experience in the financial, electric, education and public sectors with expertise in the areas of design, development and migration of applications with a focus on Java, web technologies, user interfaces and data processing.</p>"
         }
     },
@@ -231,6 +231,10 @@
               "month": "01",
               "year": "2018"
             },
+          "end_date": {
+                "month": "07",
+                "year": "2018"
+              },
           "text": {
             "headline": "DevOps Engineer / Agile Ops Team / Site Reliability Engineering at Banco Santander",
             "text": ""
@@ -249,7 +253,23 @@
         "text": {
           "headline": "Red Hat OpenShift",
           "text": "<p>OpenShift is becoming the default Choice for Enterprise Kubernetes</p>"
+            
         }
+      },
+      {
+        "media": {
+            "url": "https://media.licdn.com/dms/image/C560BAQHdEg5tdy8liQ/company-logo_200_200/0?e=2131315200&v=beta&t=Ccjzk4SMQVOGTa5LgipHV8TLaGTGMJykaiqMcMUBN_8",
+            "caption": "Red Hat",
+            "credit": ""
+          },
+          "start_date": {
+              "month": "08",
+              "year": "2018"
+            },
+          "text": {
+            "headline": "Middleware Solutions Architect",
+            "text": ""
+          }
       }
     ]
 }
