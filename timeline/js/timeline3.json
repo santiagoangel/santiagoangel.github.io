@@ -34,7 +34,7 @@
     "media": {
         "url": "http://www.youtube.com/watch?v=pi6_lm8fYUw",
         "caption": "Simulador del Sistema Eléctrico de Distribución",
-        "credit": "<a href="http://www.cfe.gob.mx">Comisión Federal de Electricidad</a>"
+        "credit": "<a href='http://www.cfe.gob.mx'>Comisión Federal de Electricidad</a>"
 },
 "start_date": {
     "month": "6",
@@ -53,7 +53,7 @@
     "media": {
         "url": "https://media.licdn.com/dms/image/C4E0BAQGb_LO2B49uqQ/company-logo_200_200/0?e=2130105600&v=beta&t=622aN_EaSLnBFgv5vxFrApus5Dx3V98J47YPGN7u6ZM",
         "caption": "BBVA Bancomer Banca por internet - Personas",
-        "credit": "<a href="https://www.bancomer.com/personas.html">www.bancomer.com</a>"
+        "credit": "<a href='https://www.bancomer.com/personas.html'>www.bancomer.com</a>"
 },
 "start_date": {
     "month": "7",
@@ -91,7 +91,7 @@
     "media": {
         "url": "https://media.licdn.com/dms/image/C4E0BAQGb_LO2B49uqQ/company-logo_200_200/0?e=2130105600&v=beta&t=622aN_EaSLnBFgv5vxFrApus5Dx3V98J47YPGN7u6ZM",
         "caption": "BBVA Bancomer Banca por internet - empresas",
-        "credit": "<a href="https://www.bancomer.com/empresas.html">www.bancomer.com</a>"
+        "credit": "<a href='https://www.bancomer.com/empresas.html'>www.bancomer.com</a>"
 },
 "start_date": {
     "month": "12",
