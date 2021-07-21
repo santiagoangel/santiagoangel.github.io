@@ -1,275 +1,309 @@
 {
-    "title": {
-        "media": {
-          "url": "https://media.licdn.com/dms/image/C5603AQF_ltHRy-dNMw/profile-displayphoto-shrink_200_200/0?e=1535587200&v=beta&t=7xQzdhvBGyMvgT5UbzyfuzApYLv8PHG1iZe1lQULT4g",
-          "caption": "Santiago Angel.",
-          "credit": "<a href='https://www.linkedin.com/in/csantiagoangel/'>LinkedIn</a>"
-        },
-        "text": {
-          "headline": "Middleware Solutions Architect @ Red Hat",
-          "text": "<p>Software architect with more than 10 years of experience in the financial, electric, education and public sectors with expertise in the areas of design, development and migration of applications with a focus on Java, web technologies, user interfaces and data processing.</p>"
-        }
-    },
-    "events": [
-      {
-        "media": {
-          "url": "https://santiagoangel.github.io/timeline/img/esimeipn.png",
-          "caption": "Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Zacatenco del Instituto Politécnico Nacional",
-          "credit": "<a href='http://www.esimez.ipn.mx/'>www.esimez.ipn.mx</a>"
-        },
-        "start_date": {
-          "month": "1",
-          "year": "2002"
-        },
-        "end_date": {
-            "month": "6",
-            "year": "2007"
-          },
-        "text": {
-          "headline": "Education",
-          "text": "<p>Bachelor of Science in Communications and Electronic Engineering with emphasis in Computing, National Polytechnic Institute, School of Mechanic and Electric Engineering, Mexico. 2002 - 2007</p>"
-          
-        }
-      },
-      {
-        "media": {
-          "url": "http://www.youtube.com/watch?v=pi6_lm8fYUw",
-          "caption": "Simulador del Sistema Eléctrico de Distribución",
-          "credit": "<a href=\"http://www.cfe.gob.mx\">Comisión Federal de Electricidad</a>"
-        },
-        "start_date": {
-            "month": "6",
-            "year": "2007"
-          },
-          "end_date": {
-              "month": "6",
-              "year": "2012"
-            },
-        "text": {
-          "headline": "Jr. Software Architect at National Polytechnic Institute/Federal Electricity Commission (CFE)",
-          "text": "Electric Distribution Network Simulator. <br/> Responsibilities: Architecture design for the project. Sequence and class diagrams. Functional specification. Development of UI (Java Swing). Integration of geographic data (position of electrical equipment). Deployment of the electricity grid maps. Database modeling following the specification IEC CIM 61968. Migration and integration between databases (Informix and PostgreSQL). Application integration calculation for electrical networks programmed in Fortran and its conversion to JSON web services. Coordination of programmers and developers. Selection of software and hardware. Presentation of the project to CFE’s managers. <br/> <b>Achievements:</b> Creating innovative technology and world-class in the field of electrical engineering. Savings in project resources due to the usage of open software solutions. The implemented software can be scaled horizontally or vertically thanks to the raised modular architecture.<br/> Technologies used: Enterprise Architect, Power Designer, Oracle SQL Developer, DB Visualizer, EnterpriseDB’s PostgreSQL Advanced Server, Informix, JBoss Enterprise Application Platform, Spring, Hibernate, Eclipse, Netbeans, SSH, Maven, Git."
-        }
-      },
-      {
-        "media": {
-          "url": "https://media.licdn.com/dms/image/C4E0BAQGb_LO2B49uqQ/company-logo_200_200/0?e=2130105600&v=beta&t=622aN_EaSLnBFgv5vxFrApus5Dx3V98J47YPGN7u6ZM",
-          "caption": "BBVA Bancomer Banca por internet - Personas",
-          "credit": "<a href=\"https://www.bancomer.com/personas.html\">www.bancomer.com</a>"
-        },
-        "start_date": {
-            "month": "7",
-            "year": "2012"
-          },
-          "end_date": {
-              "month": "4",
-              "year": "2013"
-            },
-        "text": {
-          "headline": "Software Engineer at BBVA Bancomer personal online banking",
-          "text": "<br/> Responsibilities: Design, development and testing for online banking. Development of the login page (login) to integrate existing and new banks into a single model. Improvement and updating of applications. Automated generation of statistics and reports for user logs through bash scripts. Attention incidents in production, media analysis solutions to productive problems and reporting of business rules (BPW). <br /> <b>Achievements:</b> Improved performance of the applications used in online banking. Web applications now meet current safety standards and HTML5. Automation of different processes.<br/>Technologies used: Eclipse, STS, Bash shell, IBM Rational Architect, Java EE, HTML 5, Spring(MVC, security), JQuery, IBM Websphere 6 & 7, Apache Geronimo, Visual Age, SSH, Maven, SVN, Git, Jira, IBM MQ, LDAP, REST Web services, UNIX Daemons."
-        }
-      },
-      {
-        "media": {
-          "url": "https://media.licdn.com/dms/image/C510BAQFBaEwEDPHTyg/company-logo_200_200/0?e=2130105600&v=beta&t=wLbrZCCiNUjSaey4fzEAJu-SLjE40LdGvuDmiDQDhDY",
-          "caption": "",
-          "credit": ""
-        },
-        "start_date": {
-            "month": "4",
-            "year": "2013"
-          },
-          "end_date": {
-              "month": "11",
-              "year": "2013"
-            },
-        "text": {
-          "headline": "Senior Software Engineer at Grupo Posadas",
-          "text": ""
-        }
-      },
-      {
-        "media": {
-            "url": "https://media.licdn.com/dms/image/C4E0BAQGb_LO2B49uqQ/company-logo_200_200/0?e=2130105600&v=beta&t=622aN_EaSLnBFgv5vxFrApus5Dx3V98J47YPGN7u6ZM",
-            "caption": "BBVA Bancomer Banca por internet - empresas",
-            "credit": "<a href=\"https://www.bancomer.com/empresas.html\">www.bancomer.com</a>"
-          },
-          "start_date": {
-              "month": "12",
-              "year": "2013"
-            },
-            "end_date": {
-                "month": "08",
-                "year": "2014"
-              },
-          "text": {
-            "headline": "Senior Software Engineer at BBVA Bancomer online banking for businesses",
-            "text": "<br/> Responsibilities: Design, development and testing for online banking. Development of the login page (login) to integrate existing and new banks into a single model. Improvement and updating of applications. Automated generation of statistics and reports for user logs through bash scripts. Attention incidents in production, media analysis solutions to productive problems and reporting of business rules (BPW). <br /> <b>Achievements:</b> Improved performance of the applications used in online banking. Web applications now meet current safety standards and HTML5. Automation of different processes.<br/>Technologies used: Eclipse, STS, Bash shell, IBM Rational Architect, Java EE, HTML 5, Spring(MVC, security), JQuery, IBM Websphere 6 & 7, Apache Geronimo, Visual Age, SSH, Maven, SVN, Git, Jira, IBM MQ, LDAP, REST Web services, UNIX Daemons."
-          }
-      },
-      {
-        "media": {
-          "url": "https://media.licdn.com/dms/image/C560BAQFwDaewfz9c-w/company-logo_200_200/0?e=2130105600&v=beta&t=tZlYVod3sW2MLuIYGka5uC_m6pY8EJ8antgnMcEWbnI",
-          "caption": "HSBC",
-          "credit": ""
-        },
-        "start_date": {
-            "month": "08",
-            "year": "2014"
-          },
-        "end_date": {
-              "month": "03",
-              "year": "2015"
-            },
-        "text": {
-          "headline": "Senior Software Engineer at HSBC Global Banking and Markets",
-          "text": ""
-        }
-      },
-      {
-        "media": {
-            "url": "https://media.licdn.com/dms/image/C4E0BAQFcsdmRigHYQg/company-logo_200_200/0?e=2130105600&v=beta&t=2gk6ST5aPgJ6WwrYQDL9UfAJSNqYADs0C0s2Ao-MICs",
-            "caption": "Grupo Financiero Interacciones",
-            "credit": ""
-          },
-          "start_date": {
-              "month": "03",
-              "year": "2015"
-            },
-          "end_date": {
-                "month": "05",
-                "year": "2015"
-              },
-          "text": {
-            "headline": "Java Technical Lead at Grupo Financiero Interacciones online banking",
-            "text": ""
-          }
-      },
-      {
-        "media": {
-            "url": "https://media.licdn.com/dms/image/C560BAQGJ6YGxoWYmGw/company-logo_200_200/0?e=2130105600&v=beta&t=wK19uPqErvppi6PFMypDjcTE1862_gFkMMIgWlEvjBk",
-            "caption": "Volante Technologies",
-            "credit": ""
-          },
-          "start_date": {
-              "month": "06",
-              "year": "2015"
-            },
-          "end_date": {
-                "month": "11",
-                "year": "2016"
-              },
-          "text": {
-            "headline": "Consultant/Pre-Sales Architect at Volante Technologies",
-            "text": ""
-          }
-      },
-      {
-        "media": {
-            "url": "https://media.licdn.com/dms/image/C4D0BAQHW8BYpOJtzDw/company-logo_200_200/0?e=2130105600&v=beta&t=gDS-XN_4R-0_XTP5ELHBs32rX9dkyaEmg1agibdOptI",
-            "caption": "Successful Software IO",
-            "credit": ""
-          },
-          "start_date": {
-              "month": "12",
-              "year": "2016"
-            },
-          "end_date": {
-                "month": "04",
-                "year": "2017"
-              },
-          "text": {
-            "headline": "Chief Technical Solution Architect at Successful Software IO",
-            "text": ""
-          }
-      },
-      {
-        "media": {
-            "url": "https://media.licdn.com/dms/image/C560BAQENS42P6lPm4Q/company-logo_200_200/0?e=2130105600&v=beta&t=X7nvAxKnmoSBbpzIlNy0HaFbopcVO59O-Mi-OU5TIbI",
-            "caption": "Banco Santander",
-            "credit": ""
-          },
-          "start_date": {
-              "month": "04",
-              "year": "2017"
-            },
-          "end_date": {
-                "month": "05",
-                "year": "2017"
-              },
-          "text": {
-            "headline": "Big Data Architect & Technical Lead at Banco Santander",
-            "text": ""
-          }
-      },
-      {
-        "media": {
-            "url": "https://media.licdn.com/dms/image/C560BAQENS42P6lPm4Q/company-logo_200_200/0?e=2130105600&v=beta&t=X7nvAxKnmoSBbpzIlNy0HaFbopcVO59O-Mi-OU5TIbI",
-            "caption": "Banco Santander",
-            "credit": ""
-          },
-          "start_date": {
-              "month": "05",
-              "year": "2017"
-            },
-          "end_date": {
-                "month": "12",
-                "year": "2017"
-              },
-          "text": {
-            "headline": "Software Architect/ Software Release Engineer applying DevOps methodology at Banco Santander",
-            "text": ""
-          }
-      },
-      {
-        "media": {
-            "url": "https://media.licdn.com/dms/image/C560BAQENS42P6lPm4Q/company-logo_200_200/0?e=2130105600&v=beta&t=X7nvAxKnmoSBbpzIlNy0HaFbopcVO59O-Mi-OU5TIbI",
-            "caption": "Banco Santander",
-            "credit": ""
-          },
-          "start_date": {
-              "month": "01",
-              "year": "2018"
-            },
-          "end_date": {
-                "month": "07",
-                "year": "2018"
-              },
-          "text": {
-            "headline": "DevOps Engineer / Agile Ops Team / Site Reliability Engineering at Banco Santander",
-            "text": ""
-          }
-      },
-      {
-        "media": {
-          "url": "https://twitter.com/openshift/status/911334838799564800",
-          "caption": "OpenShift is becoming the default Choice for Enterprise Kubernetes",
-          "credit": ""
-        },
-        "start_date": {
-          "month": "09",
-          "year": "2017"
-        },
-        "text": {
-          "headline": "Red Hat OpenShift",
-          "text": "<p>OpenShift is becoming the default Choice for Enterprise Kubernetes</p>"
-            
-        }
-      },
-      {
-        "media": {
-            "url": "https://media.licdn.com/dms/image/C560BAQHdEg5tdy8liQ/company-logo_200_200/0?e=2131315200&v=beta&t=Ccjzk4SMQVOGTa5LgipHV8TLaGTGMJykaiqMcMUBN_8",
-            "caption": "Red Hat",
-            "credit": ""
-          },
-          "start_date": {
-              "month": "08",
-              "year": "2018"
-            },
-          "text": {
-            "headline": "Middleware Solutions Architect",
-            "text": ""
-          }
-      }
-    ]
+title: {
+media: {
+url: "https://media-exp1.licdn.com/dms/image/C5603AQF_ltHRy-dNMw/profile-displayphoto-shrink_400_400/0/1517409975233?e=1632355200&v=beta&t=cor3-UfRZJzhTyqAma1luGKEaGZZPb41-65RYG6IhgE",
+caption: "Santiago Angel.",
+credit: "<a href='https://www.linkedin.com/in/csantiagoangel/'>LinkedIn</a>"
+},
+text: {
+headline: "Senior Software/Solution Architect/Engineer - Kubernetes & cloud native development independent advisor - Tech investor.",
+text: "<p>Software architect with more than 15 years of experience in the financial, electric, telco, education and public sectors with expertise in the areas of design, development and migration of applications with a focus on Java, web technologies, user interfaces and data processing. Ongoing expertise in GoLang, functional programming, event streaming, cloud native development and Kubernetes (selling, operational [aka DevOps/SRE], tool design, CNFs & internal architecture).</p>"
+}
+},
+events: [
+{
+media: {
+url: "https://santiagoangel.github.io/timeline/img/esimeipn.png",
+caption: "Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Zacatenco del Instituto Politécnico Nacional",
+credit: "<a href='http://www.esimez.ipn.mx/'>www.esimez.ipn.mx</a>"
+},
+start_date: {
+month: "1",
+year: "2002"
+},
+end_date: {
+month: "6",
+year: "2007"
+},
+text: {
+headline: "Education",
+text: "<p>Bachelor of Science in Communications and Electronic Engineering with emphasis in Computing, National Polytechnic Institute, School of Mechanic and Electric Engineering, Mexico. 2002 - 2007</p>"
+}
+},
+{
+media: {
+url: "http://www.youtube.com/watch?v=pi6_lm8fYUw",
+caption: "Simulador del Sistema Eléctrico de Distribución",
+credit: "<a href="http://www.cfe.gob.mx">Comisión Federal de Electricidad</a>"
+},
+start_date: {
+month: "6",
+year: "2007"
+},
+end_date: {
+month: "6",
+year: "2012"
+},
+text: {
+headline: "Jr. Software Architect at National Polytechnic Institute/Federal Electricity Commission (CFE)",
+text: "Electric Distribution Network Simulator. <br/> Responsibilities: Architecture design for the project. Sequence and class diagrams. Functional specification. Development of UI (Java Swing). Integration of geographic data (position of electrical equipment). Deployment of the electricity grid maps. Database modeling following the specification IEC CIM 61968. Migration and integration between databases (Informix and PostgreSQL). Application integration calculation for electrical networks programmed in Fortran and its conversion to JSON web services. Coordination of programmers and developers. Selection of software and hardware. Presentation of the project to CFE’s managers. <br/> <b>Achievements:</b> Creating innovative technology and world-class in the field of electrical engineering. Savings in project resources due to the usage of open software solutions. The implemented software can be scaled horizontally or vertically thanks to the raised modular architecture.<br/> Technologies used: Enterprise Architect, Power Designer, Oracle SQL Developer, DB Visualizer, EnterpriseDB’s PostgreSQL Advanced Server, Informix, JBoss Enterprise Application Platform, Spring, Hibernate, Eclipse, Netbeans, SSH, Maven, Git."
+}
+},
+{
+media: {
+url: "https://media.licdn.com/dms/image/C4E0BAQGb_LO2B49uqQ/company-logo_200_200/0?e=2130105600&v=beta&t=622aN_EaSLnBFgv5vxFrApus5Dx3V98J47YPGN7u6ZM",
+caption: "BBVA Bancomer Banca por internet - Personas",
+credit: "<a href="https://www.bancomer.com/personas.html">www.bancomer.com</a>"
+},
+start_date: {
+month: "7",
+year: "2012"
+},
+end_date: {
+month: "4",
+year: "2013"
+},
+text: {
+headline: "Software Engineer at BBVA Bancomer personal online banking",
+text: "<br/> Responsibilities: Design, development and testing for online banking. Development of the login page (login) to integrate existing and new banks into a single model. Improvement and updating of applications. Automated generation of statistics and reports for user logs through bash scripts. Attention incidents in production, media analysis solutions to productive problems and reporting of business rules (BPW). <br /> <b>Achievements:</b> Improved performance of the applications used in online banking. Web applications now meet current safety standards and HTML5. Automation of different processes.<br/>Technologies used: Eclipse, STS, Bash shell, IBM Rational Architect, Java EE, HTML 5, Spring(MVC, security), JQuery, IBM Websphere 6 & 7, Apache Geronimo, Visual Age, SSH, Maven, SVN, Git, Jira, IBM MQ, LDAP, REST Web services, UNIX Daemons."
+}
+},
+{
+media: {
+url: "https://media.licdn.com/dms/image/C510BAQFBaEwEDPHTyg/company-logo_200_200/0?e=2130105600&v=beta&t=wLbrZCCiNUjSaey4fzEAJu-SLjE40LdGvuDmiDQDhDY",
+caption: "",
+credit: ""
+},
+start_date: {
+month: "4",
+year: "2013"
+},
+end_date: {
+month: "11",
+year: "2013"
+},
+text: {
+headline: "Senior Software Engineer at Grupo Posadas",
+text: ""
+}
+},
+{
+media: {
+url: "https://media.licdn.com/dms/image/C4E0BAQGb_LO2B49uqQ/company-logo_200_200/0?e=2130105600&v=beta&t=622aN_EaSLnBFgv5vxFrApus5Dx3V98J47YPGN7u6ZM",
+caption: "BBVA Bancomer Banca por internet - empresas",
+credit: "<a href="https://www.bancomer.com/empresas.html">www.bancomer.com</a>"
+},
+start_date: {
+month: "12",
+year: "2013"
+},
+end_date: {
+month: "08",
+year: "2014"
+},
+text: {
+headline: "Senior Software Engineer at BBVA Bancomer online banking for businesses",
+text: "<br/> Responsibilities: Design, development and testing for online banking. Development of the login page (login) to integrate existing and new banks into a single model. Improvement and updating of applications. Automated generation of statistics and reports for user logs through bash scripts. Attention incidents in production, media analysis solutions to productive problems and reporting of business rules (BPW). <br /> <b>Achievements:</b> Improved performance of the applications used in online banking. Web applications now meet current safety standards and HTML5. Automation of different processes.<br/>Technologies used: Eclipse, STS, Bash shell, IBM Rational Architect, Java EE, HTML 5, Spring(MVC, security), JQuery, IBM Websphere 6 & 7, Apache Geronimo, Visual Age, SSH, Maven, SVN, Git, Jira, IBM MQ, LDAP, REST Web services, UNIX Daemons."
+}
+},
+{
+media: {
+url: "https://media.licdn.com/dms/image/C560BAQFwDaewfz9c-w/company-logo_200_200/0?e=2130105600&v=beta&t=tZlYVod3sW2MLuIYGka5uC_m6pY8EJ8antgnMcEWbnI",
+caption: "HSBC",
+credit: ""
+},
+start_date: {
+month: "08",
+year: "2014"
+},
+end_date: {
+month: "03",
+year: "2015"
+},
+text: {
+headline: "Senior Software Engineer at HSBC Global Banking and Markets",
+text: ""
+}
+},
+{
+media: {
+url: "https://media.licdn.com/dms/image/C4E0BAQFcsdmRigHYQg/company-logo_200_200/0?e=2130105600&v=beta&t=2gk6ST5aPgJ6WwrYQDL9UfAJSNqYADs0C0s2Ao-MICs",
+caption: "Grupo Financiero Interacciones",
+credit: ""
+},
+start_date: {
+month: "03",
+year: "2015"
+},
+end_date: {
+month: "05",
+year: "2015"
+},
+text: {
+headline: "Java Technical Lead at Grupo Financiero Interacciones online banking",
+text: ""
+}
+},
+{
+media: {
+url: "https://media.licdn.com/dms/image/C560BAQGJ6YGxoWYmGw/company-logo_200_200/0?e=2130105600&v=beta&t=wK19uPqErvppi6PFMypDjcTE1862_gFkMMIgWlEvjBk",
+caption: "Volante Technologies",
+credit: ""
+},
+start_date: {
+month: "06",
+year: "2015"
+},
+end_date: {
+month: "11",
+year: "2016"
+},
+text: {
+headline: "Consultant/Pre-Sales Architect at Volante Technologies",
+text: ""
+}
+},
+{
+media: {
+url: "https://media.licdn.com/dms/image/C4D0BAQHW8BYpOJtzDw/company-logo_200_200/0?e=2130105600&v=beta&t=gDS-XN_4R-0_XTP5ELHBs32rX9dkyaEmg1agibdOptI",
+caption: "Successful Software IO",
+credit: ""
+},
+start_date: {
+month: "12",
+year: "2016"
+},
+end_date: {
+month: "04",
+year: "2017"
+},
+text: {
+headline: "Chief Technical Solution Architect at Successful Software IO",
+text: ""
+}
+},
+{
+media: {
+url: "https://media.licdn.com/dms/image/C560BAQENS42P6lPm4Q/company-logo_200_200/0?e=2130105600&v=beta&t=X7nvAxKnmoSBbpzIlNy0HaFbopcVO59O-Mi-OU5TIbI",
+caption: "Banco Santander",
+credit: ""
+},
+start_date: {
+month: "04",
+year: "2017"
+},
+end_date: {
+month: "05",
+year: "2017"
+},
+text: {
+headline: "Big Data Architect & Technical Lead at Banco Santander",
+text: ""
+}
+},
+{
+media: {
+url: "https://media.licdn.com/dms/image/C560BAQENS42P6lPm4Q/company-logo_200_200/0?e=2130105600&v=beta&t=X7nvAxKnmoSBbpzIlNy0HaFbopcVO59O-Mi-OU5TIbI",
+caption: "Banco Santander",
+credit: ""
+},
+start_date: {
+month: "05",
+year: "2017"
+},
+end_date: {
+month: "12",
+year: "2017"
+},
+text: {
+headline: "Software Architect/ Software Release Engineer applying DevOps methodology at Banco Santander",
+text: ""
+}
+},
+{
+media: {
+url: "https://media.licdn.com/dms/image/C560BAQENS42P6lPm4Q/company-logo_200_200/0?e=2130105600&v=beta&t=X7nvAxKnmoSBbpzIlNy0HaFbopcVO59O-Mi-OU5TIbI",
+caption: "Banco Santander",
+credit: ""
+},
+start_date: {
+month: "01",
+year: "2018"
+},
+end_date: {
+month: "07",
+year: "2018"
+},
+text: {
+headline: "DevOps Engineer / Agile Ops Team / Site Reliability Engineering at Banco Santander",
+text: ""
+}
+},
+{
+media: {
+url: "https://twitter.com/openshift/status/911334838799564800",
+caption: "OpenShift is becoming the default Choice for Enterprise Kubernetes",
+credit: ""
+},
+start_date: {
+month: "09",
+year: "2017"
+},
+text: {
+headline: "Red Hat OpenShift",
+text: "<p>OpenShift is becoming the default Choice for Enterprise Kubernetes</p>"
+}
+},
+{
+media: {
+url: "https://media-exp1.licdn.com/dms/image/C4E0BAQEto-TydTTIfQ/company-logo_100_100/0/1556712048684?e=1634774400&v=beta&t=VuW1IYf_of5QLj2E3eEQy30dqvwunhwVMUfR3-ZyOrY",
+caption: "Red Hat",
+credit: ""
+},
+start_date: {
+month: "08",
+year: "2018"
+},
+end_date: {
+month: "03",
+year: "2021"
+},
+text: {
+headline: "Senior Solution Architect at Red Hat",
+text: "<p>Architect solutions to meet the unique requirements of new and emerging customers, and oversee proofs of concepts and pilot implementations of our solutions portfolio.</p>"
+}
+}
+,
+{
+media: {
+url: "https://media-exp1.licdn.com/dms/image/C560BAQG26sciivZrFg/company-logo_100_100/0/1519888191203?e=1634774400&v=beta&t=3c_KIJDNb1tVaCIZp5NMrWd5wtMLZjOsOgROTP8vDuo",
+caption: "Confidential",
+credit: ""
+},
+start_date: {
+month: "04",
+year: "2021"
+},
+text: {
+headline: "Kubernetes & cloud native development independent advisor",
+text: "<p>Technical advisor in Kubernetes & cloud native development for local and global consultancies.
+</p>"
+}
+},
+{
+media: {
+url: "https://media-exp1.licdn.com/dms/image/C560BAQEMSUUcez5KFA/company-logo_100_100/0/1559760033294?e=1634774400&v=beta&t=62BXWTTHKYHXth3TB2dUPVc1xvHIOtFQDT_R3WpuzLw",
+caption: "NYSE",
+credit: ""
+},
+start_date: {
+month: "04",
+year: "2021"
+},
+text: {
+headline: "Tech investor",
+text: "<p>Asset management of S&P top technological stocks and international ETFs.</p>"
+}
+}
+]
 }
