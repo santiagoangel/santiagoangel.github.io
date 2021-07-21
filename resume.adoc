@@ -2,15 +2,52 @@
 :icons: font
 
 = Santiago Angel
-DevOps Engineer / Agile Ops Team / Site Reliability Engineering, Banco Santander
-santiagoangel@gmail.com  santiagoangel.github.io
+
+Senior Software/Solution Architect/Engineer
+
+Kubernetes & cloud native development independent advisor
+
+Tech investor. 
+
+Mexico, Netherlands
+
+santiagoangel@gmail.com  https://santiagoangel.github.io
 
 == Summary
-Software architect with more than 10 years of experience in the financial, electric, education and public sectors with expertise in the areas of design, development and migration of applications with a focus on Java, web technologies, user interfaces and data processing.
+Software architect with more than 15 years of experience in the financial, electric, telco, education and public sectors with expertise in the areas of design, development and migration of applications with a focus on Java, web technologies, user interfaces and data processing. Ongoing expertise in GoLang, functional programming, event streaming, cloud native development and Kubernetes (selling, operational [aka DevOps/SRE], tool design, CNFs & internal architecture).
 
 == Experience
+
+=== Tech investor
+*Mexico City, New York · Part-time · Since April 2021*
+
+Asset management of S&P top technological stocks and international ETFs.
+
+
+=== Kubernetes & cloud native development independent advisor
+*Mexico City, Amsterdam · Part-time · Since April 2021*
+
+Technical advisor in Kubernetes & cloud native development for local and global consultancies.
+
+
+=== Senior Solution Architect at Red Hat
+*Mexico City · Full-time · Aug 2018 - March 2021*
+
+Senior Solution Architect, Middleware, Telco
+
+Responsibilities:
+
+Serve as the subject matter expert at the client site, addressing the technical, development, and strategic IT needs.
+
+Manage problem identification, system architecture definition, software specification, and the design, testing, and deployment of open source solutions.
+
+Architect solutions to meet the unique requirements of new and emerging customers, and oversee proofs of concepts and pilot implementations of our solutions portfolio.
+
+Contribute to the development of repeatable methodologies and tools designed to scale our services capabilities, promote repeatable customer engagements, and lower delivery risk.
+
+
 === DevOps Engineer / Agile Ops Team / Site Reliability Engineering at Banco Santander
-*Mexico City & Queretaro (Mexico) · Full-time · Since Jan 2018*
+*Mexico City & Queretaro (Mexico) · Full-time · Jan 2018 - Jul 2018*
 
 Identify new requirements.
 
@@ -148,6 +185,67 @@ Responsibilities: Creation of an electronic billing system for ADEMSA/TMM. Devel
 Software Document management for the National Insurance and Bonding Commission (CNSF). I coordinated a team of programmers to make corrections and improvements to the development.
 
 == Proyects
+
+=== Red Hat OpenShift Container Platform - CNF vPCF Onboarding on OpenShift in OpenStack. Since sept 2019
+
+CNF vPCF Onboarding on OpenShift in Red Hat OpenStack Platform for Number One Telco Provider in Latam.
+
+Policy Control Cloud Native Function of Telco Vendor integrated(onboarding) in Red Hat OpenShift Container Platform on top of Red Hat OpenStack Platform.
+
+The onboarding was made with Red Hat OpenShift Operator Framework and Operator Helm SDK. https://github.com/operator-framework
+
+This project is the first onboarding of a CNF in Red Hat OpenShift Container Platform with Red Hat OpenStack Platform in Latam.
+
+=== Design of Multi cloud Architecture: Red Hat OpenShift Container Platform on premise + Azure Red Hat OpenShift. since Aug 2019
+
+Design of Multi cloud Architecture for Number One Telco Provider in Latam:
+
+Red Hat OpenShift Container Platform on premise + Azure Red Hat OpenShift.
+
+Made in association with Microsoft México.
+
+=== Red Hat OpenShift Container Platform on RH OSP - PoC. Since oct 2018
+
+Proof of Concept for Red Hat OpenShift Container Platform on RH OSP for Number one Telco Provider in Latam.
+
+Enablement to the platform, test drives, workshop, tech talks.
+
+Pilot to production of cloud native customer mobile lines activation application.
+
+=== Red Hat OpenShift Container Platform - CNF vPCF Onboarding on OpenShift in VMWare. May 2019 – Sept 2019
+
+CNF vPCF Onboarding on OpenShift in VMWare for Number One Telco Provider in Latam.
+
+Policy Control Cloud Native Function of Telco Vendor integrated(onboarding) in Red Hat OpenShift Container Platform on top of VMWare Infrastructure.
+
+The onboarding was made with Red Hat OpenShift Operator Framework and Operator Helm SDK. https://github.com/operator-framework
+
+This project was the first onboarding of a CNF in Red Hat OpenShift Container Platform in Latam.
+
+Ver proyecto: Red Hat OpenShift Container Platform - CNF vPCF Onboarding on OpenShift in VMWare
+
+=== Red Hat OpenShift Container Platform Pilot to production of cloud native customer mobile lines activation application. Apr 2019 – Aug 2019
+
+Pilot to production of cloud native customer mobile lines activation application of Number one Telco Provider in Latam.
+
+=== Red Hat OpenShift Container Platform on VMWare - PoC & ATP. Jan 2019 – March 2019
+
+Red Hat OpenShift Container Platform on VMWare.
+
+A proof of concept was developed for Number One Telco Provider in Latam to validate OpenShift features related to infrastructure and telco.
+
+An ATP of 30+ Container Native Applications on Red Hat OpenShift Container Platform on Top of VMWare in customer datacenter was finished with great success.
+
+
+=== Red Hat OpenShift Container Platform on RHV - PoC & ATP. Aug 2018 – Jan 2019
+
+Red Hat OpenShift Container Platform on RHV.
+
+A proof of concept was developed for Number One Telco Provider in Latam to validate OpenShift features.
+
+An ATP of 60+ Container Native Applications on Red Hat OpenShift Container Platform on Top of Red Hat Virtualization in customer datacenter was finished with great success.
+
+
 === IT transformation - new support model. November 2017 to date
 Santiago Angel, Arturo De Florencio, Jalil Bonilla
 
@@ -225,6 +323,9 @@ This simulator allows the user to analyze and study future or historical conditi
 National Polytechnic Institute, School of Mechanic and Electric Engineering, Mexico · 2002 - 2007
 
 == Professional Training
+
+Advanced Cloud-Native Development with Red Hat OpenShift Application Runtimes, Red Hat, Sept 2019
+
 Red Hat OpenStack Technical Overview, Red Hat CL010, Jun 2018
 
 Microsoft Professional Orientation Data Science, Microsoft dat101x, Oct 2017
