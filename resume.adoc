@@ -9,7 +9,7 @@ Kubernetes & cloud native development independent advisor
 
 Tech investor. 
 
-Mexico, Netherlands
+Mexico and Netherlands
 
 santiagoangel@gmail.com  https://santiagoangel.github.io
 
@@ -184,7 +184,7 @@ Responsibilities: Creation of an electronic billing system for ADEMSA/TMM. Devel
 
 Software Document management for the National Insurance and Bonding Commission (CNSF). I coordinated a team of programmers to make corrections and improvements to the development.
 
-== Proyects
+== Projects
 
 === Red Hat OpenShift Container Platform - CNF vPCF Onboarding on OpenShift in OpenStack. Since sept 2019
 
