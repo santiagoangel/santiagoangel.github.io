@@ -2,4 +2,4 @@
 
 Personal site for Santiago Angel
 
-Includes links to twitter, github and my resume.
+Includes links to X, github and my resume.
